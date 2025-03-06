@@ -1,0 +1,1046 @@
+Name,Parsed Name,Title,Category,Level,Type,System
+Performance Warning alarm,bad performance was detected,bad performance was detected,Software,Info,Functional,NCE
+ETH_LOS,Ethernet Signal was lost,Ethernet Signal was lost,Hardware,Failure,Networking,NCE
+Physical Port Down,physical port down,physical port stopped working,Hardware,Failure,Functional,NCE
+Link Down,link down,a link was disconnected,Hardware,Failure,Networking,NCE
+Crc error alarm notification,cyclic redundancy check error alarm notification,a cyclic redundancy check error occurred,Software,Info,Networking,NCE
+Power Invalid,power invalid,the power source was invalid,Power,Failure,Functional,NCE
+RADIO_RSL_LOW,radio Received Signal Level low,the radio Received Signal Level was low,Hardware,Info,Functional,NCE
+NE_NOT_LOGIN,ne not login,a network element was not logged in,Software,Failure,Functional,NCE
+MW_LOF,Microwave lof,Microwave system failed,Hardware,Failure,Functional,NCE
+NE_COMMU_BREAK,ne Communication break,a network element Communication broke,Software,Failure,Functional,NCE
+RADIO_TSL_LOW,radio transmit power level low,the radio transmit power level was low,Hardware,Info,Functional,NCE
+POWER_ABNORMAL,power abnormal,the power source was abnormal,Power,Info,Functional,NCE
+MAC_EXT_EXC,Meduim Access Control External Exceeds,the Meduim Access Control External Exceeded threshold,Hardware,Info,Functional,NCE
+BD_STATUS,board status,a status issue occurred in the board,Software,Info,Functional,NCE
+RADIO_RSL_BEYONDTH,radio Received Signal Level beyondth,the radio Received Signal Level beyond threshold,Hardware,Info,Functional,NCE
+DCNSIZE_OVER,Data Communication Network Size over,a Data Communication Network was oversized,Software,Info,Networking,NCE
+RADIO_FADING_MARGIN_INSUFF,radio fading margin Insufficient,the radio fading margin was Insufficient,Hardware,Info,Functional,NCE
+PORTMODE_MISMATCH,PORT MODE mismatch,a mismatch was detected in the PORT MODE,Software,Failure,Networking,NCE
+NE_COMMU_GNE_SWITCH,ne Communication Gateway Network element switch,a Communication Gateway Network element was switched,Hardware,Info,Functional,NCE
+DROPRATIO_OVER,DROP-RATIO over,the DROP RATIO was over,Software,Info,Networking,NCE
+MW_RDI,Microwave Remote Defect Indication,a Defect was Indicated in the Microwave Remote system,Hardware,Info,Functional,NCE
+RADIO_MUTE,radio mute,a radio was muted,Software,Failure,Functional,NCE
+IF_CABLE_OPEN,intermidiate frequency cable open,the intermidiate frequency cable was opened,Hardware,Info,Functional,NCE
+COMMUN_FAIL,Communication fail,a Communication failed,Software,Failure,Networking,NCE
+MW_BER_SD,Microwave Bit Error Rate Signal Degradation,a Signal Degradation was deteted in the Microwave Bit Error Rate,Hardware,Info,Functional,NCE
+ETH_LINK_DOWN,Ethernet link down,an Ethernet link stopped working,Hardware,Failure,Networking,NCE
+GNE_CONNECT_FAIL,Gateway Network element connect fail,a connection to Gateway Network element failed,Software,Failure,Networking,NCE
+SWDL_AUTOMATCH_INH,Software Download automatch Inhibited,Software Download automatch was Inhibited,Software,Info,Functional,NCE
+MAC_FCS_EXC,Meduim Access Control Frame Check Sequence Exceeds,the Frame Check Sequence Exceeded threshold in the Meduim Access Control,Software,Info,Networking,NCE
+SLAVE_BAD,slave bad,a slave had bad performance,Software,Info,Functional,NCE
+CONFIG_NOSUPPORT,configuration Not Support,the configuration was Not Supported,Configuration,Failure,Functional,NCE
+VPLS VC Down,Virtual Private Local Access Network Services Virtual Circuit down,a Virtual Circuit stopped working in the Private Local Access Network Services,Hardware,Failure,Functional,NCE
+Vpls VSI state change to down,Virtual Private Local Access Network Services Virtual Switching Instate state change to down,the Virtual Switching state changed to down in the Private Local Access Network Services,Hardware,Failure,Functional,NCE
+T_ALOS,t alos,Unknown Alarm was triggered,Software,Info,Functional,NCE
+Power Fail(Entity),power fail entity,a power entity failed,Power,Failure,Functional,NCE
+PORT_EXC_TRAFFIC,port Exceeds traffic,a port Exceeded traffic threshold,Software,Info,Networking,NCE
+IN_PWR_ABN,Input Power Abnormal,an Input Power source was Abnormal,Power,Info,Functional,NCE
+HARD_BAD,hard bad,the system was hardly bad,Software,Info,Functional,NCE
+POWER_ALM,power Alarm,a power Alarm sounded,Power,Failure,Functional,NCE
+R_LOF,receive side lof,the receive side frames were lost,Software,Info,Networking,NCE
+PLA_MEMBER_DOWN,Physical Link Aggregation member down,the Physical Link Aggregation member stopped working,Hardware,Failure,Networking,NCE
+MW_LIM,Microwave limited,a Microwave limit was reached,Hardware,Info,Functional,NCE
+MOD_COM_FAIL,module Communication fail,a module Communication failed,Software,Failure,Networking,NCE
+BUS_ERR,bus error,a bus error occurred,Hardware,Info,Networking,NCE
+BFD Session Status Changes to Down,Bidirectional Forwarding Detection session status changes to down,the session status changed to down in the Bidirectional Forwarding Detection,Software,Info,Functional,NCE
+BFD session down,Bidirectional Forwarding Detection session down,the Bidirectional Forwarding Detection session was down,Software,Info,Functional,NCE
+MPLS LDP Session Down,Multi Protocol Label Switching Label Distribution Protocol session down,Multi Protocol Label Switching Distribution Protocol session was down,Software,Info,Functional,NCE
+The Device is offline,the device is offline,the device was offline,Hardware,Failure,Functional,NCE
+LSR_NO_FITED,Laser no Not Fitted or Not installed,Laser was Not Fitted or was Not installed,Hardware,Failure,Functional,NCE
+BGP Status Changed,Border Gateway Protocol status changed,the Border Gateway Protocol status changed,Software,Info,Functional,NCE
+IS-IS Adjacency Changed,is is adjacency changed,the adjacency changed,Software,Info,Functional,NCE
+R_LOC,receive side Loss Of Connectivity,the receive side Lost its Connectivity,Software,Failure,Functional,NCE
+BIOS_STATUS,bios status,a bios status issue occurred,Software,Info,Functional,NCE
+FAN_FAIL,fan fail,a fan failed,Hardware,Emergency,Functional,NCE
+Output rate alarm notification,output rate alarm notification,the output rate was abnormal,Hardware,Info,Functional,NCE
+CHAN_LOS,Channel Loss Of Signal,a Channel Lost its Signal,Hardware,Failure,Networking,NCE
+SYNC_FAIL,synchronization fail,synchronization failed,Software,Failure,Functional,NCE
+VOLT_LOS,volt Loss Of Signal,a volt source Lost its Signal,Power,Failure,Functional,NCE
+Communication Intermit,communication Intermitted,a communication was Intermitted,Software,Failure,Networking,NCE
+CLK_NO_TRACE_MODE,clock no trace mode,a clock was set to no trace mode,Software,Info,Functional,NCE
+Device Powered Off,device powered off,the device was powered off,Hardware,Info,Functional,NCE
+RTC_FAIL,Real-Time Clock fail,the Real Time Clock failed,Software,Failure,Functional,NCE
+PLA_DOWN,Physical Link Aggregation down,the Physical Link Aggregation stopped working,Hardware,Failure,Networking,NCE
+Optical Fail,optical fail,an optical communication failed,Software,Failure,Networking,NCE
+MAC address transition occurred,Meduim Access Control address transition occurred,an address transition occurred in the Meduim Access Control,Software,Info,Networking,NCE
+The input voltage of a power module was below a rated range,the input voltage of a power module was below a rated range,the input voltage of a power module was below a rated range,Power,Info,Functional,NCE
+TEMP_ALARM,Temperature alarm,Temperature alarm sounded,Hardware,Info,Functional,NCE
+NEIP_CONFUSION,Network Element Internet Protocol ( Network Element Internet Protocol address) confusion,a confusion ocurred in the Network Element Internet Protocol address,Software,Failure,Functional,NCE
+Optical module error,optical module error,optical module error occurred,Hardware,Failure,Functional,NCE
+PASSWORD_NEED_CHANGE,password need change,a password needed to change,Security,Info,Functional,NCE
+RADIO_TSL_HIGH,radio transmit power level high,a high transmit power level was recorded in the radio,Hardware,Info,Functional,NCE
+MW_CFG_MISMATCH,Microwave Configuration mismatch,a mismatch occurred at the Microwave Configuration,Configuration,Failure,Networking,NCE
+HARD_ERR,hard error,a hard error sounded,Hardware,Failure,Functional,NCE
+OSPF Neighbor State Changes,Open Shortest Path First neighbor state changes,a neighbor state changed at the Open Shortest Path,Software,Info,Functional,NCE
+OSPF Interface State Changed,Open Shortest Path First interface state changed,a state changed in the Open Shortest Path interface,Software,Info,Functional,NCE
+negotiation failed alarm,negotiation failed alarm,a negotiation failed,Software,Failure,Functional,NCE
+DOWN_E1_AIS,down A digital communication link that enables the transmission of voice Alarm Indication Signal,A digital communication link was down that enables the transmission of voice Alarm Indication Signal,Hardware,Failure,Networking,NCE
+CES_LOSPKT_EXC,ces lospkt Exceeds,lost packets Exceeded threshold,Software,Info,Networking,NCE
+Number of Input Error Packets Exceeded the Threshold,number of input error packets exceeded the threshold,number of input error packets exceeded the threshold,Software,Info,Networking,NCE
+CHAN_ADD,Channel add,a Channel was added,Software,Info,Networking,NCE
+Received Pause Frames Exceeded Threshold,received pause frames exceeded threshold,received pause frames exceeded threshold,Software,Info,Networking,NCE
+ETH_CFM_LOC,Ethernet Connectivity Fault Management Loss Of Connectivity,the Ethernet Connectivity Fault Management Lost its Connectivity,Hardware,Failure,Networking,NCE
+FDBSIZEALM_ELAN,FDB Size Alarm Ethernet LAN (Local Access Network),THE Size was abnormal at the Ethernet Local Access Network,Software,Info,Networking,NCE
+Tunnel Transmitting Services Is Unreachable,tunnel transmitting services is unreachable,the tunnel transmitting services was unreachable,Hardware,Failure,Functional,NCE
+LCS_LIMITED,License limited,the License found limited,Software,Info,Functional,NCE
+Input rate alarm notification,input rate alarm notification,input rate was abnormal,Software,Info,Functional,NCE
+OUT_PWR_ABN,out Power Abnormal,out Power was Abnormal,Power,Info,Functional,NCE
+REM_SF,Remote Signal Failure,a Remote Signal Failed,Hardware,Failure,Networking,NCE
+R_LOS,receive side Loss Of Signal,the receive side Lost its Signal,Hardware,Failure,Functional,NCE
+The alarm of copper negotiation rate fall down,the alarm of copper negotiation rate fall down,the alarm of copper negotiation rate degraded,Software,Info,Functional,NCE
+COM_EXTECC_FULL,Communication Extended ECC Protocol full,Communication Extended AT THE full Protocol,Software,Info,Networking,NCE
+PW VC Down,Power Virtual Circuit down,Power Virtual Circuit stopped working,Hardware,Failure,Functional,NCE
+Optical Invalid,optical invalid,an optical communication was invalid,Software,Failure,Networking,NCE
+FLOW_OVER,flow over,the flow exceeded threshold,Software,Info,Networking,NCE
+RADIO_RSL_HIGH,radio Received Signal Level high,the radio Received Signal Level was high,Hardware,Info,Functional,NCE
+LASER_MOD_ERR,laser module error,the laser module was faulty,Hardware,Failure,Functional,NCE
+SUBNET_RT_CONFLICT,Subnetwork route conflict,the Subnetwork route recorded a conflict,Software,Failure,Networking,NCE
+L3VPN VRF Down,Layer3 Virtual Private Network Virtual Routing and Forwarding down,the third Layer Virtual Private Network Routing and Forwarding stopped working,Hardware,Failure,Networking,NCE
+Board Reset By Cmd,board reset by Command,a board was reset by Command,Hardware,Info,Functional,NCE
+XPIC_LOS,Cross-Polarization Interference Cancellation Loss Of Signal,the Cross Polarization Interference Cancellation Lost its Signal,Hardware,Failure,Functional,NCE
+Optical Remove,optical remove,an optical communication was removed,Software,Info,Networking,NCE
+BD_NOT_INSTALLED,board not installed,a board was not installed,Hardware,Failure,Functional,NCE
+hwBaseArpVlanCarEnhanceTrap,Hardware Base ARP VLAN Car Enhance Trap,Hardware Base issue occurred,Hardware,Failure,Functional,NCE
+ARP VLAN CAR take effect,Address Resolution Protocol Virtual Local Area Networks commited access rate take effect,the commited access rate took effect in the Address Resolution Local Area Networks,Software,Info,Networking,NCE
+Gtl Default Value,GPRS To LTE (This parameter specifies whether the policy for handovers from a GPRS network to an LTE network can be delivered.) default value,the second to third generation delivery parameter had default value,Software,Info,Functional,NCE
+The optical module is removed,the optical module is removed,the optical module was removed,Hardware,Info,Functional,NCE
+MW_BER_EXC,Microwave Bit Error Rate Exceeds,the Microwave Bit Error Rate Exceeded threshold,Software,Info,Networking,NCE
+AM_DOWNSHIFT,amplitude modulation downshift,the amplitude modulation system downshifted,Hardware,Info,Functional,NCE
+DBMS_ERROR,Data Base Mangement System error,Data Base Mangement System was abnormal,Software,Info,Functional,NCE
+LICENSE_LOST,license lost,license lost,Software,Failure,Functional,NCE
+XQoS CPU Defend Discarded Packet Alarm,Interface Quality of service Central Processing Unit defend discarded packet alarm,a defend discarded packet was recorded at the Central Processing Unit of Interface Quality of service,Software,Info,Functional,NCE
+RMON_ALM_INBADOCTS_OVER,Remote Network Monitoring Alarm the octet number of bad packets over,the octet number of bad packets in Remote Network Monitoring was over,Software,Info,Networking,NCE
+Up Micro Switch Open,up micro switch open,the upper micro switch was opened,Hardware,Info,Functional,NCE
+NE Software Management - NE Backup File Missing,ne software management ne backup file missing,a backup file was missing in the software management system,Software,Info,Functional,NCE
+NE Software Management - Automatic Backup operation failed,ne software management automatic backup operation failed,the automatic backup operation failed in the software management system,Software,Failure,Functional,NCE
+BRDCASTRATIO_OVER,Broadcast Ratio over,the Broadcast Ratio exceeded threshold,Software,Info,Networking,NCE
+IF_INPWR_ABN,intermidiate frequency Input Power Abnormal,the intermidiate frequency Input Power was Abnormal,Hardware,Info,Functional,NCE
+UP_E1_AIS,up A digital communication link that enables the transmission of voice Alarm Indication Signal,the upper voice transmission link was abnormal,Hardware,Info,Networking,NCE
+ETH_CFM_RDI,Ethernet Connectivity Fault Management Remote Defect Indication,a Remote Defect was Indicated at the Ethernet Connectivity Fault Management,Hardware,Info,Functional,NCE
+The interface traffic exceeds the threshold,the interface traffic exceeds the threshold,the interface traffic exceeded the threshold,Software,Info,Networking,NCE
+PORTSWITCH_FAIL,Port Switch fail,Port Switch failed,Hardware,Failure,Networking,NCE
+REMOTE_FAULT,remote fault,a remote fault was recorded,Hardware,Failure,Functional,NCE
+LOCAL_FAULT,local fault,a local fault was recorded,Hardware,Failure,Functional,NCE
+Local Fault Alarm,local fault alarm,a local fault was recorded,Hardware,Failure,Functional,NCE
+Alarm of failed LAG negotiation,alarm of failed link aggregation group negotiation,a link aggregation group negotiation failed,Software,Failure,Networking,NCE
+RPS_INDI,radio protection switching indi,a radio protection switching problem occurred,Hardware,Info,Functional,NCE
+FAN_AGING,fan aging,a fan is aging,Hardware,Info,Functional,NCE
+LAN_LOC,lan Loss Of Connectivity,local area network Lost its Connectivity,Hardware,Failure,Networking,NCE
+LASER_SHUT,laser shut,a laser shut was applied,Hardware,Info,Functional,NCE
+Sub Card Removed,sub card removed,the sub card was removed,Hardware,Info,Functional,NCE
+IN_PWR_LOW,Input Power low,the Input Power recorded a low level,Power,Info,Functional,NCE
+Card Invalid,card invalid,a card was invalid,Hardware,Failure,Functional,NCE
+Communicate Error,communicate error,failed to communicate,Software,Failure,Networking,NCE
+Board Invalid,board invalid,a board was invalid,Hardware,Failure,Functional,NCE
+BIP_EXC,bit interleaved parity Exceeds,the bit interleaved parity Exceeded threshold,Hardware,Info,Networking,NCE
+BIP_SD,bit interleaved parity Signal Degradation,the bit interleaved parity Signal Degraded,Hardware,Info,Networking,NCE
+ODU1_PM_OCI,Optical channel Data Unit Path Monitoring Open Connection Indication,Open Connection Indicated at the Path Monitoring of Optical channel Data Unit,Hardware,Info,Functional,NCE
+ODU2_PM_OCI,Optical channel Data Unit Path Monitoring Open Connection Indication,Open Connection Indicated at the Path Monitoring of Optical channel Data Unit,Hardware,Info,Functional,NCE
+Board Temperature over Minor Upper Threshold,board temperature over minor upper threshold,board temperature recorded over minor upper threshold,Hardware,Info,Functional,NCE
+Interface-based CAR alarm,interface based commited access rate alarm,interface based commited access rate was abnormal,Software,Info,Networking,NCE
+Board Fail,board fail,board failed,Hardware,Failure,Functional,NCE
+Entity Removed with Offline Button Pressed,entity removed with offline button pressed,an entity was removed with offline button pressed,Hardware,Info,Functional,NCE
+Reset due to board heartbeat loss,reset due to board heartbeat loss,a reset applied due to board heartbeat loss,Hardware,Info,Functional,NCE
+Desynchronization of SM and SC on LPU,desynchronization of section monitoring and Section controller on Line Processing Unit,Synchronization error occurred between section monitoring and Section controller on Line Processing Unit,Software,Failure,Functional,NCE
+Failure of Board Channels,failure of board channels,board channels failed,Hardware,Failure,Functional,NCE
+Board Voltage Below Critical Lower Threshold,board voltage below critical lower threshold,board voltage was below critical lower threshold,Power,Info,Functional,NCE
+The alarm of TTL-Expired loop detection,the alarm of Time To Live expired loop detection,the Time To Live expired loop was detected,Software,Info,Functional,NCE
+CFCARD_FAILED,CF Card failed,A CERTIFICATE Card failed,Hardware,Failure,Functional,NCE
+ELAN_SMAC_FLAPPING,Ethernet LAN (Local Access Network) Source MAC (Medium Access Network) address flapping,address flapped in Ethernet Local Access Network and Source Medium access,Software,Failure,Networking,NCE
+ODU0_PM_OCI,Optical channel Data Unit Path Monitoring Open Connection Indication,Open Connection Indicated at the Path Monitoring of Optical channel Data Unit,Hardware,Info,Functional,NCE
+Fan Remove,fan remove,fan was removed,Hardware,Emergency,Functional,NCE
+PORT_MODULE_OFFLINE,port module offline,port module found offline,Hardware,Info,Functional,NCE
+Remote Fault Alarm,remote fault alarm,remote fault alarm sounded,Hardware,Failure,Functional,NCE
+CCC VC Status Changed to Down,Circuit Cross-Connect Virtual Circuit status changed to down,Circuit Cross Connect Virtual Circuit status changed to down,Hardware,Failure,Functional,NCE
+Overlow Input Power of Optical Module,overlow input power of optical module,the input power source was overlow in optical module,Power,Info,Functional,NCE
+Alarm for symbol errors,alarm for symbol errors,symbol errors detected,Software,Info,Functional,NCE
+ODU_SNCP_STA_INDI,odu Subnetwork connection protection Status indi,a Subnetwork connection protection Status was abnormal,Software,Info,Networking,NCE
+MUT_LOS,multiplexed Loss Of Signal,multiplexed Loss Of Signal was detected,Hardware,Failure,Networking,NCE
+OSC_LOS,Optical Supervisory Channel Loss Of Signal,Optical Supervisory Channel Lost its Signal,Hardware,Failure,Functional,NCE
+ODU_SNCP_PS,odu Subnetwork connection protection Packet Switched,a Subnetwork connection protection Packet Switched,Software,Info,Networking,NCE
+OTU2_LOM,otu2 Loss of multiframes,a Loss of multiframes was detected,Software,Info,Networking,NCE
+Number of Output Error Packets Exceeded the Threshold,number of output error packets exceeded the threshold,number of output error packets exceeded the threshold,Software,Info,Networking,NCE
+Error in the data channel of the subcard,error Input the data channel of the Sub-card,the data channel of the Sub card was errornous,Hardware,Info,Functional,NCE
+Error in the universal chip of subcards,error Input the universal chip of subcards,the universal chip of subcards was errornous,Hardware,Info,Functional,NCE
+Subcard clock error,Sub-card clock error,Sub card clock error occurred,Software,Failure,Functional,NCE
+Entity Removed (Base),entity removed base,a base entity was removed,Hardware,Info,Functional,NCE
+LOOP_ALM,loop Alarm,loop Alarm sounded,Hardware,Info,Functional,NCE
+TU_AIS,tu Alarm Indication Signal,Unknown Alarm was triggered,Software,Info,Functional,NCE
+ETH_PWR_SUPPLY_FAIL,Ethernet Power supply fail,Ethernet Power supply failed,Power,Failure,Functional,NCE
+WRG_BD_TYPE,Wrong board type,Wrong board type was detected,Hardware,Info,Functional,NCE
+Card Remove,card remove,a card was removed,Hardware,Info,Functional,NCE
+OTU2_DEG,otu2 Degree,Unknown Alarm was triggered,Software,Info,Functional,NCE
+CPW_OTU_TEL_PATHMIS,Circuit Pack Optical Transport Unit telecommunication link path status is inconsistent,the path status was inconsistent in the telecommunication link of Circuit Pack Optical Transport Unit,Software,Failure,Networking,NCE
+ODU2_PM_DEG,Optical channel Data Unit Path Monitoring Degree,Optical channel Data Unit Path Monitoring degraded,Hardware,Info,Functional,NCE
+BEFFEC_EXC,Before Forward Error Correction Exceeds,the Before Forward Error Correction Exceeded threshold,Software,Info,Networking,NCE
+CPW_OMS_TEL_PATHMIS,Circuit Pack Optical Multiplex Section telecommunication link path status is inconsistent,the path status was inconsistent in the telecommunication link of Circuit Pack Optical Multiplex Section,Software,Failure,Networking,NCE
+OPU1_PLM,Optical channel Payload Unit payload mismatch,a payload mismatch occurred at the first optical channel Payload Unit,Software,Failure,Functional,NCE
+E1_LOS,A digital communication link that enables the transmission of voice Loss Of Signal,the voice transmission link Lost its Signal,Hardware,Failure,Functional,NCE
+Port and Optical Module Rate Mismatch,port and optical module rate mismatch,a mismatch was recorded between the port and optical module rate,Software,Failure,Networking,NCE
+OPU2_PLM,Optical channel Payload Unit payload mismatch,a payload mismatch occurred at the second optical channel Payload Unit,Software,Failure,Functional,NCE
+ALS_ACTIVE,Automatic laser shutdown active,Automatic laser shutdown was activated,Hardware,Info,Functional,NCE
+ETH_AUTO_LINK_DOWN,Ethernet auto link down,Ethernet auto link stopped working,Hardware,Failure,Networking,NCE
+ERPS_IN_PROTECTION,Ethernet RInputg Protection Input protection,Ethernet RIng and Input Protection issue reported,Hardware,Info,Networking,NCE
+PLA_MEMBER_DOWN_EXT,Physical Link Aggregation member down External,the External Physical Link Aggregation member stopped working,Hardware,Failure,Networking,NCE
+OTU2_LOF,otu2 lof,Unknown Alarm was triggered,Software,Info,Functional,NCE
+MAC/IP Conflict,Medium Access Control Internet Protocol conflict,a conflict found in Medium Access Control and Internet Protocol,Software,Failure,Networking,NCE
+CRC4_CROSSTR,Cyclic Redundancy Check Cross Transmission,Cyclic Redundancy Check Cross Transmission unmatched,Software,Info,Networking,NCE
+ODU2_PM_SSF,Optical channel Data Unit Path Monitoring Server Signal Fail,a Server Signal Failed at the Path Monitoring of Optical channel Data Unit,Hardware,Failure,Functional,NCE
+OTU2_SSF,otu2 Server Signal Fail,a Server Signal Failed,Hardware,Failure,Functional,NCE
+IN_PWR_HIGH,Input Power high,the Input Power was high,Power,Info,Functional,NCE
+POWER_FAIL,power fail,the power source failed,Power,Failure,Functional,NCE
+ODU2_PM_LCK,Optical channel Data Unit Path Monitoring locked?ú?›?›?,Optical channel Data Unit Path Monitoring locked,Software,Failure,Functional,NCE
+PG_PRT_DEGRADED,protection group part degraded,protection group part degraded,Hardware,Info,Functional,NCE
+PLA_PKT_ERR,Physical Link Aggregation packet error,Physical Link Aggregation packet triggered an error,Hardware,Failure,Networking,NCE
+ODU1_LOFLOM,Optical channel Data Unit loss of frames loss of multiframes,Optical channel Data Unit lost multiframes,Software,Info,Networking,NCE
+System Config Error,system configuration error,system configuration error was registered,Configuration,Failure,Functional,NCE
+Card Fail,card fail,card failed,Hardware,Failure,Functional,NCE
+MW_CONT_WAVE,Microwave continuous wave,Microwave continuous wave issue reported,Hardware,Info,Functional,NCE
+Board Remove,board remove,a board was removed,Hardware,Emergency,Functional,NCE
+Power Sensor of Board 1220 Failed,power sensor of board 1220 failed,the power sensor of board failed,Hardware,Failure,Functional,NCE
+Power module was powered off,power module was powered off,power module was powered off,Power,Info,Functional,NCE
+48V power supply abnormal,Direct Current power supply abnormal,Direct Current power supply was abnormal,Power,Info,Functional,NCE
+SOFT_ERROR,Software error,Software error occurred,Software,Failure,Functional,NCE
+XCP_DEGRADE,Exception?ú?›?›? degrade,an Exceptional? degradation recorded,Software,Info,Functional,NCE
+DPS_STA_INDI,Device protection Statustus Status indi,Device protection issue recorded,Software,Info,Functional,NCE
+SWDL_NEPKGCHECK,Software Download software package file check,software package file checked for Software Download,Software,Info,Functional,NCE
+LINK_ERR,link error,link error occurred,Software,Failure,Networking,NCE
+NESF_LOST,Network Element software lost,Network Element software lost,Software,Failure,Functional,NCE
+DCNLINK_OVER,data communication network link over,data communication network link was over,Software,Info,Networking,NCE
+PG_LINK_FAIL,protection group link fail,protection group link failed,Software,Failure,Networking,NCE
+Alarm that all LAG bandwidth is lost,alarm that all link aggregation group bandwidth is lost,all link aggregation group bandwidth was lost,Software,Info,Networking,NCE
+MW_FEC_EXC,Microwave forward error correction Exceeds,Microwave forward error correction Exceeded threshold,Software,Info,Functional,NCE
+Attack Trap Detected by Security Center,attack trap detected by security center,attack trap detected by security center,Hardware,Failure,Functional,NCE
+Down Micro Switch Open,down micro switch open,down micro switch was opened,Hardware,Info,Functional,NCE
+CONFIGURATION RESTORATION FAILURE ALARM,configuration restoration failure alarm,configuration restoration failed,Configuration,Failure,Functional,NCE
+ODU0_PM_LCK,Optical channel Data Unit Path Monitoring locked?ú?›?›?,Optical channel Data Unit Path Monitoring locked,Software,Failure,Functional,NCE
+Chassis Fail,chassis fail,chassis failed,Hardware,Failure,Functional,NCE
+PLA_CFG_MISMATCH,Physical Link Aggregation Configuration mismatch,a Configuration mismatch was recorded in the Physical Link Aggregation,Configuration,Failure,Networking,NCE
+CPW_OTU_TEL_DEG,Circuit Pack Optical Transport Unit telecommunication link Degree,Circuit Pack Optical Transport Unit telecommunication link Degraded,Hardware,Info,Networking,NCE
+CPW_OTU_TEL_DOWN,Circuit Pack Optical Transport Unit telecommunication link down,Circuit Pack Optical Transport Unit telecommunication link stopped working,Hardware,Failure,Functional,NCE
+PTP_SOURCE_SWITCH,Precision Time Protocol source switch,Precision Time Protocol source switch recorded,Hardware,Info,Functional,NCE
+OPU2_CSF,Optical channel Payload Unit Client side signals fail,Optical channel Payload Unit Client side signals failed,Hardware,Failure,Functional,NCE
+CPW_ODU_TEL_PATHMIS,Circuit Pack odu telecommunication link path status is inconsistent,Circuit Pack telecommunication link path status was inconsistent,Hardware,Info,Networking,NCE
+Card Reset By Cmd,card reset by Command,a card was reset by Command,Hardware,Info,Functional,NCE
+RFUSD_DELAY_UNEQUAL,rfusd delay unequal,a delay was unequal,Software,Info,Functional,NCE
+LAG_MEMBER_DOWN,link aggregation group member down,link aggregation group member stopped working,Software,Failure,Functional,NCE
+ALS_TRIGGERED,Automatic laser shutdown triggered,Automatic laser shutdown was triggered,Hardware,Info,Functional,NCE
+SUM_INPWR_LOW,sum Input Power low,sum Input Power was recorded low,Power,Info,Functional,NCE
+LP_REI,lower order path remote error indication,lower order path remote error indicated,Software,Failure,Networking,NCE
+Eth-Trunk Member Down,Ethernet trunk member down,Ethernet trunk member stopped working,Hardware,Failure,Functional,NCE
+OPA_FAIL_INDI,optical power adjustment fail indi,optical power adjustment failed,Hardware,Failure,Functional,NCE
+The total bandwidth of all cards exceeds the forwarding capacity of system control board,the total bandwidth of all cards exceeds the forwarding capacity of system control board,The total bandwidth of all cards exceeded the forwarding capacity of system control board,Software,Info,Functional,NCE
+Board Unstable,board unstable,board was found unstable,Hardware,Info,Functional,NCE
+Bus Bar Undervoltage,Bus Bar Undervoltage,the Bus Bar went Undervoltage,Power,Info,Functional,Neteco
+Phase L1 Under Voltage,Phase One Under Voltage,the first Phase went Undervoltage,Power,Info,Functional,Neteco
+Phase L3 Failure,Phase Three Failure,the third Phase experienced a Failure,Power,Failure,Functional,Neteco
+Phase L2 Failure,Phase Two Failure,the Second Phase experienced a Failure,Power,Failure,Functional,Neteco
+Rectifier Fault,Rectifier Fault,A Rectifier Fault happened,Hardware,Failure,Functional,Neteco
+Battery Loop2 Disconnected,Battery Loop2 Disconnected,the Battery Second Loop was Disconnected,Power,Failure,Functional,Neteco
+Abnormal Start,Abnormal Start,An abnormal Start was recorded,Hardware,Info,Functional,Neteco
+Reverse Battery Connection,Reverse Battery Connection,the Battery Connection was Reversed,Hardware,Emergency,Functional,Neteco
+Load Fuse Broken,Load Fuse Broken,the Load Fuse was Broken,Hardware,Failure,Functional,Neteco
+Low Rectifier Remaining Capacity,Low Rectifier Remaining Capacity,The Remaining Capacity for the Rectifier was Low,Hardware,Info,Functional,Neteco
+D.G. Output Undervoltage Alarm,Diesel Generator Output Undervoltage Alarm,the Diesel Generator experienced an Output Undervoltage,Power,Info,Functional,Neteco
+Mains Failure,Mains Failure,The Mains power Failed,Power,Info,Functional,Neteco
+Rectifier Protection,Rectifier Protection,A Rectifier Protection issue happened,Hardware,Info,Functional,Neteco
+AC Failure,Alternating Current Failure,the Alternating Current Source Failed,Power,Failure,Functional,Neteco
+Intelligent DC Air Conditioner Communication Failure,Intelligent Direct Current Air Conditioner Communication Failure,The Communication of Intelligent Air Conditioner failed,Software,Failure,Functional,Neteco
+Mains Lose Phase,Mains Lose Phase,A Mains power Lost its Phase,Hardware,Info,Functional,Neteco
+Rectifier Power Failure,Rectifier Power Failure,a Rectifier Power source Failed,Power,Failure,Functional,Neteco
+Abnormal D.G. Start,Abnormal Diesel Generator Start,a Diesel Generator Started abnormally,Hardware,Info,Functional,Neteco
+Communication Failure,Communication Failure,a Communication Failure happened,Software,Failure,Functional,Neteco
+D.G. Output Overvoltage Alarm,Diesel Generator Output Overvoltage Alarm,The Output Overvoltage of a Diesel Generator was abnormal,Power,Info,Functional,Neteco
+Mains Phase L3 Undervoltage,Mains Phase Three Undervoltage,The third Mains power Phase went Undervoltage,Power,Info,Functional,Neteco
+Door Open Alarm,Door Open Alarm,a Door opening alarm sounded,Hardware,Emergency,Functional,Neteco
+DC Input Fail,Direct Current Input Fail,the Direct Current Input Failed,Power,Failure,Functional,Neteco
+Fan 2 Fault,Fan Two Fault,the second Fan stopped working,Hardware,Emergency,Functional,Neteco
+LLVD Warning,Load Low Voltage Disconnection Warning,The Load Low Voltage Disconnected,Power,Info,Functional,Neteco
+Low Battery Temperature,Low Battery Temperature,a Low Battery Temperature was recorded,Hardware,Info,Functional,Neteco
+Mains Over Frequency,Mains Over Frequency,The Mains power experienced an over frequency,Power,Info,Functional,Neteco
+D.G. Running,Diesel Generator Running,the Diesel Generator was Running,Power,Info,Functional,Neteco
+BLVD Warning,Bus Bar Low Voltage Disconnection Warning,the Bus Bar Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+Communication Between NMS And NE Is Abnormal,Communication Between Network Management System And Network Element Is Abnormal,the Communication Between Network Management System And some Network Element was Abnormal,Software,Failure,Networking,Neteco
+Running,Running,the power System was Running,Power,Info,Functional,Neteco
+PSU Protection,Power Supply Unit Protection,a Protection issue happened with the Power Supply Unit,Hardware,Info,Functional,Neteco
+Power System Charge Failure,Power System Charge Failure,the Power System charging failed,Hardware,Failure,Functional,Neteco
+Failed to Send the Remote Notification,Failed to Send the Remote Notification,Failed to Send the Remote Notification,Software,Failure,Functional,Neteco
+Battery Discharging,Battery Discharging,the Battery was Discharging,Hardware,Info,Functional,Neteco
+Mains Undervoltage,Mains Undervoltage,the Mains power experienced an Undervoltage,Power,Info,Functional,Neteco
+LLVD2 Warning,Second Load Low Voltage Disconnection Warning,the Second Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+BLVD Low Voltage Disconnected,Bus Bar Low Voltage Disconnection Low Voltage Disconnected,the Bus Bar Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+Bus Bar Ultra Undervoltage,Bus Bar Ultra Undervoltage,Bus Bar experienced an Ultra Undervoltage,Power,Info,Functional,Neteco
+LLVD Low Voltage Disconnected,Load Low Voltage Disconnection Low Voltage Disconnected,the Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+LLVD2 Low Voltage Disconnected,Second Load Low Voltage Disconnection Low Voltage Disconnected,the Second Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+PSU Communication Failure,Power Supply Unit Communication Failure,the Communication failed in the Power Supply Unit,Software,Failure,Functional,Neteco
+Battery Loop1 Disconnected,Battery Loop1 Disconnected,the First Loop of the Battery was Disconnected,Power,Failure,Functional,Neteco
+Major Load Contactor Fault,Major Load Contactor Fault,A fault occurred in the Major Load Contactor,Hardware,Failure,Functional,Neteco
+AC SPD Fault,Alternating Current SPD Fault,A Surge protective device fault was recorded in the Alternating Current source,Hardware,Info,Functional,Neteco
+LLVD,Load Low Voltage Disconnection,the Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+PSU Fault,Power Supply Unit Fault,A fault was recorded in the Power Supply Unit,Power,Failure,Functional,Neteco
+Minor Load Low Voltage Disconnected,Minor Load Low Voltage Disconnected,the Minor Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+BLVD,Bus Bar Low Voltage Disconnection,the Bus Bar Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+Phase L2 Under Voltage,Phase Two Under Voltage,the second power Phase experienced an Undervoltage,Power,Info,Functional,Neteco
+Abnormal D.G. Stop,Abnormal Diesel Generator Stop,the Diesel Generator stopped abnormally,Hardware,Info,Functional,Neteco
+PSU Lost,Power Supply Unit Lost,the Power Supply Unit Lost,Hardware,Failure,Functional,Neteco
+AC Phase L1 Failure,Alternating Current Phase One Failure,the first Alternating Current Phase Failed,Power,Failure,Functional,Neteco
+Lose Phase,Lose Phase,the power Phase was lost,Power,Failure,Functional,Neteco
+AC Phase L3 Failure,Alternating Current Phase Three Failure,the third Alternating Current Phase Failed,Power,Failure,Functional,Neteco
+Battery Discharge,Battery Discharge,the Battery was Discharged,Power,Failure,Functional,Neteco
+D.G. Lose Phase,Diesel Generator Lose Phase,the Diesel Generator Lost its Phase,Hardware,Info,Functional,Neteco
+Battery Temperature Sensor Not Detected,Battery Temperature Sensor Not Detected,the Battery Temperature Sensor was not Detected,Hardware,Info,Functional,Neteco
+Genset Work Abnormal,Genset Work Abnormal,the Genset Work was Abnormal,Power,Info,Functional,Neteco
+Genset Generator Fault,Genset Generator Fault,A fault recorded in the Genset power Generator,Hardware,Failure,Functional,Neteco
+Major Load Fuse Broken,Major Load Fuse Broken,the Major Load Fuse was Broken,Hardware,Info,Functional,Neteco
+AC Phase L3 Undervoltage,Alternating Current Phase Three Undervoltage,the third Alternating Current Phase experienced an Undervoltage,Power,Info,Functional,Neteco
+Abnormal Fuel Level Decline,Abnormal Fuel Level Decline,An abnormal decline was detected in the Fuel Level,Hardware,Info,Functional,Neteco
+Mains Phase L3 Failure,Mains Phase Three Failure,the third Mains power Phase Failed,Power,Info,Functional,Neteco
+Low Battery Capacity,Low Battery Capacity,the Battery Capacity was reduced,Hardware,Info,Functional,Neteco
+Multi-Rectifier Fault,Multi-Rectifier Fault,the Multi Rectifier Failed,Hardware,Failure,Functional,Neteco
+Phase L3 Under Voltage,Phase Three Under Voltage,the third Phase went Undervoltage,Power,Info,Functional,Neteco
+Fan 1 Fault,Fan One Fault,the First Fan Stopped working,Hardware,Emergency,Functional,Neteco
+Frequent High Pressure,Frequent High Pressure,the Pressure frequently went high,Hardware,Info,Functional,Neteco
+Battery High Temperature Disconnected,Battery High Temperature Disconnected,the Battery High Temperature sensor was Disconnected,Hardware,Info,Functional,Neteco
+ATS Communication Failure,Automatic Transfer Switch Communication Failure,the Communication of Automatic Transfer Switch Failed,Software,Failure,Functional,Neteco
+Mains Phase L2 Undervoltage,Mains Phase Two Undervoltage,the second phase of power Mains went Undervoltage,Power,Info,Functional,Neteco
+Abnormal Stop,Abnormal Stop,the power system Stopped abnormally,Power,Failure,Functional,Neteco
+Mains Phase L1 Undervoltage,Mains Phase One Undervoltage,the First power Mains went Undervoltage,Power,Info,Functional,Neteco
+AC Phase L2 Undervoltage,Alternating Current Phase Two Undervoltage,the second Alternating Current Phase went Undervoltage,Power,Info,Functional,Neteco
+D.G. Stop Failure,Diesel Generator Stop Failure,Diesel Generator failed when stopping,Hardware,Failure,Functional,Neteco
+DC Ultra Under Voltage,Direct Current Ultra Under Voltage,the Direct Current experienced an Ultra Undervoltage,Power,Info,Functional,Neteco
+AC Phase L1 Undervoltage,Alternating Current Phase One Undervoltage,the first Alternating Current Phase went Undervoltage,Power,Info,Functional,Neteco
+Intelligent DC Air Conditioner External Fan Fault,Intelligent Direct Current Air Conditioner External Fan Fault,the External Fan Failed in the Intelligent Air Conditioner,Hardware,Emergency,Functional,Neteco
+Output Undervoltage Alarm,Output Undervoltage Alarm,the power Output was Undervoltage,Power,Info,Functional,Neteco
+ESMU Overdischarge Protection,Energy Storage Management Unit Overdischarge Protection,Energy Storage Management Unit witnessed an Overdischarge Protection issue,Hardware,Info,Functional,Neteco
+AC Phase L2 Failure,Alternating Current Phase Two Failure,the second Alternating Current Phase Failed,Power,Failure,Functional,Neteco
+Mains Phase L2 Failure,Mains Phase Two Failure,the second power Mains Phase Failed,Power,Info,Functional,Neteco
+Compressor Fault,Compressor Fault,the power Compressor Failed,Hardware,Failure,Functional,Neteco
+Battery High Temperature,Battery High Temperature,the Battery Temperature was high,Hardware,Info,Functional,Neteco
+Compressor Current Abnormal,Compressor Current Abnormal,the power Compressor Current was Abnormal,Power,Info,Functional,Neteco
+DIN3 Alarm,Third Dry Contact Input Alarm,the Third Dry Contact Input was abnormal,Hardware,Info,Functional,Neteco
+D.G. Battery Voltage Abnormal,Diesel Generator Battery Voltage Abnormal,the Diesel Generator Battery Voltage was Abnormal,Power,Info,Functional,Neteco
+Battery Charge Overcurrent,Battery Charge Overcurrent,the Battery Charging experienced an Overcurrent,Hardware,Info,Functional,Neteco
+D.G. Stop Exception Alarm,Diesel Generator Stop Exception Alarm,the Diesel Generator Stopped Exceptionally,Hardware,Failure,Functional,Neteco
+Start Failure,Start Failure,the power system failed to start,Hardware,Failure,Functional,Neteco
+All SSU Communication Failure,All SSU Communication Failure,All Communications of a power unit Failed,Software,Failure,Functional,Neteco
+Diesel Generator Startup Failure,Diesel Generator Startup Failure,the Diesel Generator falied to Start,Hardware,Failure,Functional,Neteco
+Refueling,Refueling,the generator was Refueling,Power,Info,Functional,Neteco
+Door Open Time Out,Door Open Time Out,the door opened for long time,Hardware,Emergency,Functional,Neteco
+Intelligent DC Air Conditioner Internal Fan Fault,Intelligent Direct Current Air Conditioner Internal Fan Fault,the Internal Fan Failed in the Intelligent Air Conditioner,Hardware,Emergency,Functional,Neteco
+AC Loop Abnormal,Alternating Current Loop Abnormal,the Alternating Current Loop was Abnormal,Hardware,Info,Functional,Neteco
+AC Phase L2 Overvoltage,Alternating Current Phase Two Overvoltage,the second phase of Alternating Current went Overvoltage,Power,Info,Functional,Neteco
+AC Phase L1 Overvoltage,Alternating Current Phase One Overvoltage,First phase of the Alternating Current went Overvoltage,Power,Info,Functional,Neteco
+Mains Phase L2 Overvoltage,Mains Phase Two Overvoltage,the Second power Mains Phase went Overvoltage,Power,Info,Functional,Neteco
+Mains Phase L1 Overvoltage,Mains Phase One Overvoltage,the first power Mains phase went Overvoltage,Power,Info,Functional,Neteco
+Phase L1 Failure,Phase One Failure,the first power Phase Failed,Power,Failure,Functional,Neteco
+Battery Fuse Broken,Battery Fuse Broken,the Battery Fuse was Broken,Hardware,Failure,Functional,Neteco
+Diesel Generator Abnormal Start,Diesel Generator Abnormal Start,The Diesel Generator Started Abnormally,Hardware,Info,Functional,Neteco
+DC Under Voltage,Direct Current Under Voltage,the Direct Current poewr source went Undervoltage,Power,Info,Functional,Neteco
+Rectifier Missing,Rectifier Missing,the Rectifier was Missing,Hardware,Info,Functional,Neteco
+Air Conditioner High Temperature,Air Conditioner High Temperature,the Air Conditioner Temperature was high,Hardware,Info,Functional,Neteco
+Mains Phase L1 Failure,Mains Phase One Failure,the first phase of power Mains Failed,Power,Info,Functional,Neteco
+Battery Undervoltage,Battery Undervoltage,the Battery voltage was low,Power,Info,Functional,Neteco
+LLVD Disconnected,Load Low Voltage Disconnection Disconnected,the Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+LLVD2 Disconnected,Second Load Low Voltage Disconnection Disconnected,the Second Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+BLVD Disconnected,Bus Bar Low Voltage Disconnection Disconnected,the Bus Bar Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+Ambient Low Humidity,Ambient Low Humidity,the Ambient Humidity was low,Hardware,Info,Functional,Neteco
+Stop Failure,Stop Failure,the power system Failed to stop,Hardware,Failure,Functional,Neteco
+Mains Phase L3 Overvoltage,Mains Phase Three Overvoltage,The third power Mains Phase went Overvoltage,Power,Info,Functional,Neteco
+AC Phase L3 Overvoltage,Alternating Current Phase Three Overvoltage,the third Alternating Current Phase went Overvoltage,Power,Info,Functional,Neteco
+Major Load Low Voltage Disconnected,Major Load Low Voltage Disconnected,the Major Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+Output Overvoltage Alarm,Output Overvoltage Alarm,the Output voltage was high,Power,Info,Functional,Neteco
+Communication Fail,Communication Fail,the power system Communication Failed,Software,Failure,Functional,Neteco
+D.G. Start Exception Alarm,Diesel Generator Start Exception Alarm,the Diesel Generator Started Exceptionally,Hardware,Info,Functional,Neteco
+HEX Fault,Hex Fault,a hex fault occurred in the power system,Power,Failure,Functional,Neteco
+D.G. Start Failure,Diesel Generator Start Failure,the Diesel Generator failed to Start,Hardware,Failure,Functional,Neteco
+All PSU Communication Failure,All Power Supply Unit Communication Failure,All communications Failed in the Power Supply Units,Software,Failure,Networking,Neteco
+Overdischarge,Overdischarge,the battery was Overdischarged,Hardware,Info,Functional,Neteco
+DIN2 Alarm,Second Dry Contact Input Alarm,the Second Dry Contact Input was abnormal,Hardware,Info,Functional,Neteco
+AC Charge Abnormal,Alternating Current Charge Abnormal,the Alternating Current Charging was Abnormal,Power,Info,Functional,Neteco
+Bus Bar Overvoltage,Bus Bar Overvoltage,the Bus Bar went Overvoltage,Power,Info,Functional,Neteco
+ATS AC Surge Protector Fault,Automatic Transfer Switch Alternating Current Surge Protector Fault,the Surge Protector Failed in the Automatic Transfer Switch,Hardware,Failure,Functional,Neteco
+Low Ambient Humidity,Low Ambient Humidity,the Ambient Humidity was low,Hardware,Info,Functional,Neteco
+Intelligent DC Air Conditioner Compressor Fault,Intelligent Direct Current Air Conditioner Compressor Fault,the compressor Failed in the Intelligent Air Conditioner,Hardware,Failure,Functional,Neteco
+Over AC Frequency,Over Alternating Current Frequency,the Alternating Current line Frequency was high,Power,Info,Functional,Neteco
+Diesel Generator Stop Failure,Diesel Generator Stop Failure,the Diesel Generator Failed to Stop,Hardware,Failure,Functional,Neteco
+Battery Fuse Break,Battery Fuse Break,the Battery Fuse Broke,Hardware,Failure,Functional,Neteco
+PV Array Lost,Photovoltaic Array Array Lost,the Photovoltaic Array Lost,Hardware,Failure,Functional,Neteco
+Diesel Generator Abnormal Stop,Diesel Generator Abnormal Stop,the Diesel Generator Stopped abnormally,Hardware,Failure,Functional,Neteco
+ATS Closing Failure,Automatic Transfer Switch Closing Failure,the Automatic Transfer Switch failed to Close,Hardware,Failure,Functional,Neteco
+Minor Load Contactor Fault,Minor Load Contactor Fault,the Minor Load Contactor failed,Hardware,Failure,Functional,Neteco
+Over Frequency,Over Frequency,the power system Frequency went high,Power,Info,Functional,Neteco
+DC Undervoltage,Direct Current Undervoltage,the Direct Current source went Undervoltage,Power,Info,Functional,Neteco
+High Battery Temperature,High Battery Temperature,a High Battery Temperature was recorded,Hardware,Info,Functional,Neteco
+Fan 3 Fault,Fan Three Fault,third fan stopped working,Hardware,Emergency,Functional,Neteco
+Under AC Frequency,Under Alternating Current Frequency,the Alternating Current source Frequency was low,Power,Info,Functional,Neteco
+Refuel Reminder,Refuel Reminder,a Refueling Reminder was triggered,Power,Info,Functional,Neteco
+Low Fuel Level,Low Fuel Level,the Fuel reached a low Level,Power,Info,Functional,Neteco
+Mains Overvoltage,Mains Overvoltage,the power Mains went Overvoltage,Power,Info,Functional,Neteco
+First Maintenance Reminder,First Maintenance Reminder,a First Maintenance Reminder was triggered,Hardware,Info,Functional,Neteco
+BLVD Disconnecting,Bus Bar Low Voltage Disconnection Disconnecting,the Bus Bar Low Voltage was Disconnecting,Hardware,Info,Functional,Neteco
+HVDC Failure,High Voltage Direct Current Failure,the High Voltage Direct Current source Failed,Hardware,Failure,Functional,Neteco
+System Manual Control,System Manual Control,the System was Controlled manually,Hardware,Info,Functional,Neteco
+Battery Temperature Sensor 1 Missing,Battery Temperature Sensor One Missing,the first Battery Temperature Sensor was Missing,Hardware,Info,Functional,Neteco
+Phase L1 Over Voltage,Phase One Over Voltage,the first power Phase went Overvoltage,Power,Info,Functional,Neteco
+Phase L2 Over Voltage,Phase Two Over Voltage,the second power Phase went Overvoltage,Power,Info,Functional,Neteco
+Phase L3 Over Voltage,Phase Three Over Voltage,the third power Phase went Overvoltage,Power,Info,Functional,Neteco
+LLVD1 Disconnected,First Load Low Voltage Disconnection Disconnected,the First Load Low Voltage was Disconnected,Power,Failure,Functional,Neteco
+LLVD1 Disconnecting,First Load Low Voltage Disconnection Disconnecting,the First Load Low Voltage was Disconnecting,Hardware,Info,Functional,Neteco
+ultra under DC voltage,ultra under Direct Current voltage,the Direct Current voltage went ultra undervoltage,Power,Info,Functional,Neteco
+All Rectifiers Communication Failure,All Rectifiers Communication Failure,All Communications Failed in power Rectifiers,Software,Failure,Networking,Neteco
+Mains Failure Alarm,Mains Failure Alarm,the power Mains Failure Alarm was triggered,Power,Info,Functional,Neteco
+Manual Battery Connection,Manual Battery Connection,the Battery Connection was manual,Power,Info,Functional,Neteco
+Phase L1 Failure,Phase One Failure,the first power Phase Failed,Power,Info,Functional,Neteco
+Phase L3 Failure,Phase Three Failure,the third power Phase Failed,Power,Info,Functional,Neteco
+Phase L3 Under Voltage,Phase Three Under Voltage,the third power Phase went Undervoltage,Power,Info,Functional,Neteco
+TEC Cooler Fault,TEC Cooler Fault,the power system Cooler Failed,Hardware,Failure,Functional,Neteco
+Maintance Reminder,Maintance Reminder,a Maintance Reminder was triggered,Hardware,Info,Functional,Neteco
+Battery Very High Temperature,Battery Very High Temperature,the Battery Temperature went Very High,Hardware,Info,Functional,Neteco
+LLVD1 Contactor Fault,First Load Low Voltage Disconnection Contactor Fault,the Low Voltage Disconnection Contactor Failed in the First Load,Hardware,Failure,Functional,Neteco
+Lithium Battery Protection,Lithium Battery Protection,the Lithium Battery Protection issue was recorded,Power,Info,Functional,Neteco
+Fan 4 Fault,Fan Fourth Dry Contact Input Fault,the fourth Fan Dry Contact Input Failed,Hardware,Emergency,Functional,Neteco
+SSU Missing,SSU Missing,a power unit went missing,Hardware,Info,Functional,Neteco
+Battery Fuse Failure,Battery Fuse Failure,the Battery Fuse Failed,Hardware,Failure,Functional,Neteco
+SSU Communication Failure,SSU Communication Failure,a power unit Communication Failed,Software,Failure,Functional,Neteco
+Unknown System Type,Unknown System Type,an Unknown System Type was recorded,Hardware,Info,Functional,Neteco
+Ambient Temperature Sensor Missing,Ambient Temperature Sensor Missing,the Ambient Temperature Sensor was Missing,Hardware,Info,Functional,Neteco
+Ambient Humidity Sensor Missing,Ambient Humidity Sensor Missing,the Ambient Humidity Sensor was Missing,Hardware,Emergency,Functional,Neteco
+AC Surge Protector Fault,Alternating Current Surge Protector Fault,the Alternating Current Surge Protector Failed,Hardware,Failure,Functional,Neteco
+Load Fuse Break,Load Fuse Break,the Load Fuse Broke,Hardware,Failure,Functional,Neteco
+PV Array Fault,Photovoltaic Array Array Fault,the Photovoltaic Array Failed,Hardware,Failure,Functional,Neteco
+Phase L2 Under Voltage,Phase Two Under Voltage,the second power Phase went Undervoltage,Power,Info,Functional,Neteco
+LLVD Contactor Fault,Load Low Voltage Disconnection Contactor Fault,the low voltage Disconnection Contactor Failed in the Load,Power,Failure,Functional,Neteco
+Indoor Vent High Temperature,Indoor Vent High Temperature,a High Temperature was recorded in the Indoor Vent,Hardware,Info,Functional,Neteco
+Battery Undervoltage Protection,Battery Undervoltage Protection,a Battery Undervoltage Protection issue was recorded,Power,Info,Functional,Neteco
+Fan Failure,Fan Failure,the power system Fan Failed,Hardware,Failure,Functional,Neteco
+Minor Load Fuse Broken,Minor Load Fuse Broken,the Minor Load Fuse Broke,Hardware,Failure,Functional,Neteco
+Battery Forcibly Connection,Battery Forcibly Connection,the Battery connected Forcibly,Hardware,Emergency,Functional,Neteco
+Phase L1 Under Voltage,Phase One Under Voltage,the first power Phase went Undervoltage,Power,Info,Functional,Neteco
+DIN5 Alarm,Fifth Dry Contact Input Alarm,the Fifth Dry Contact Input alarm was triggered,Hardware,Info,Functional,Neteco
+Communication Fail,Communication Fail,a power system Communication Failed,Software,Failure,Functional,Neteco
+Phase L1 Over Voltage,Phase One Over Voltage,the first Phase went Overvoltage,Power,Info,Functional,Neteco
+Phase L3 Over Voltage,Phase Three Over Voltage,the third Phase went Overvoltage,Power,Info,Functional,Neteco
+Ambient High Temperature,Ambient High Temperature,the Ambient Temperature went high,Hardware,Info,Functional,Neteco
+System Undervoltage,System Undervoltage,the power System went Undervoltage,Power,Info,Functional,Neteco
+D.G. Low Battery Voltage,Diesel Generator Low Battery Voltage,the Diesel Generator Battery Voltage was Low,Power,Info,Functional,Neteco
+Phase L2 Over Voltage,Phase Two Over Voltage,the second power Phase went Overvoltage,Power,Info,Functional,Neteco
+SSU Fault,SSU Fault,a power unit Failed,Hardware,Failure,Functional,Neteco
+Unknown PDM Type,Unknown Power Distribution Module Type,an Unknown Power Distribution Module Type detected,Hardware,Info,Functional,Neteco
+Battery and PDM Type Conflict,Battery and Power Distribution Module Type Conflict,a confilct detected in the Battery and Power Distribution Module Type,Hardware,Info,Functional,Neteco
+LLVD Timed Disconnected,Load Low Voltage Disconnection Timed Disconnected,the timed Load Low Voltage was Disconnected,Hardware,Failure,Functional,Neteco
+Load Timed Disconnected,Load Timed Disconnected,a timed Load was Disconnected,Hardware,Info,Functional,Neteco
+Under Frequency,Under Frequency,the power system frequenct went low,Power,Info,Functional,Neteco
+External Fan Fault,External Fan Fault,the External Fan stopped working,Hardware,Emergency,Functional,Neteco
+D.G. Timed Maintenance Reminder,Diesel Generator Timed Maintenance Reminder,the Diesel Generator must undergo a Timed Maintenance,Power,Info,Functional,Neteco
+Smoke Sensor Not Detected,Smoke Sensor Not Detected,the Smoke Sensor was Not Detected,Hardware,Info,Functional,Neteco
+Battery Temperature Sensor Fault,Battery Temperature Sensor Fault,the Battery Temperature Sensor Failed,Hardware,Info,Functional,Neteco
+Low Rectifier Capacity,Low Rectifier Capacity,the Rectifier Capacity went low,Hardware,Info,Functional,Neteco
+SSU Lost,SSU Lost,a power unit was Lost,Hardware,Emergency,Functional,Neteco
+DIN1 Alarm,First Dry Contact Input Alarm,the First Dry Contact Input Alarm was triggered,Hardware,Info,Functional,Neteco
+DC Input Undervoltage,Direct Current Input Undervoltage,the Direct Current Input source went Undervoltage,Power,Info,Functional,Neteco
+Air-condition Failure,Air-condition Failure,the power system Air conditioner Failed,Hardware,Failure,Functional,Neteco
+MUC01A Board Communication Failure,MUC01A Board Communication Failure,the Communication failed in the First control Board,Software,Failure,Functional,Neteco
+Load1 Disconnected,Load1 Disconnected,the First Load was Disconnected,Hardware,Info,Functional,Neteco
+Load2 Disconnected,Load2 Disconnected,the Second Load was Disconnected,Hardware,Info,Functional,Neteco
+Load3 Disconnected,Load3 Disconnected,the Third Load was Disconnected,Hardware,Info,Functional,Neteco
+Load4 Disconnected,Load4 Disconnected,the Fourth Load was Disconnected,Hardware,Info,Functional,Neteco
+BLVD High Temperature Disconnected,Bus Bar Low Voltage Disconnection High Temperature Disconnected,the Temperature was high and the Bus Bar Low Voltage Disconnected,Hardware,Info,Functional,Neteco
+Ambient Low Temperature,Ambient Low Temperature,the Ambient Temperature went low,Hardware,Info,Functional,Neteco
+LLVD2 Contactor Fault,Second Load Low Voltage Disconnection Contactor Fault,the Contactor Failed in the Second Load Low Voltage Disconnection,Hardware,Failure,Functional,Neteco
+Rectifier Hardware Address Abnormal,Rectifier Hardware Address Abnormal,the Rectifier Hardware Address was Abnormal,Hardware,Info,Functional,Neteco
+All Rectifiers Fail to Communicate,All Rectifiers Fail to Communicate,All Rectifiers Failed to Communicate,Software,Failure,Networking,Neteco
+Abnormal System Current Check,Abnormal System Current Check,the System Current Check was Abnormal,Hardware,Info,Functional,Neteco
+HEX Communication Failure,Hex Communication Failure,the Hex Communication Failed,Software,Failure,Functional,Neteco
+Login Attempts Reach the Maximum Value,Login Attempts Reach the Maximum Value,Login Attempts Reached the Maximum Value,Software,Info,Functional,Neteco
+D.G. Routine Maintenance Reminder,Diesel Generator Routine Maintenance Reminder,Diesel Generator must undergo a Routine Maintenance,Power,Info,Functional,Neteco
+MUE04A Board Communication Failure,MUE04A Board Communication Failure,the Communication Failed in the Fourth element Board,Software,Failure,Functional,Neteco
+MUE05A Board Communication Failure,MUE05A Board Communication Failure,the Communication Failed in the Fifth element Board,Software,Failure,Functional,Neteco
+MUE03A Board Communication Failure,MUE03A Board Communication Failure,the Communication Failed in the third element Board,Software,Failure,Functional,Neteco
+Phase L2 Failure,Phase Two Failure,the second Phase Failed,Power,Info,Functional,Neteco
+Long Mains Failure,Long Mains Failure,the Long power Mains Failed,Power,Info,Functional,Neteco
+Abnormal Battery Current,Abnormal Battery Current,an Abnormal Battery Current was detected,Power,Info,Functional,Neteco
+Hex Set Curve Failure,Hex Set Curve Failure,the Hex Set Curve Failed,Hardware,Failure,Functional,Neteco
+Manual Control State,Manual Control State,the power system Control State was manual,Hardware,Info,Functional,Neteco
+INFAN1 Fault,First Indoor Fan Fault,the First Indoor Fan Failed,Hardware,Emergency,Functional,Neteco
+Water Alarm,Water Alarm,a Water Alarm was triggered,Hardware,Info,Functional,Neteco
+Load Fuse2 Broken,Load Fuse2 Broken,the Second Load Fuse Broke,Hardware,Failure,Functional,Neteco
+Users Having Not Logged In for an Excessively Long Time,Users Having Not Logged In for an Excessively Long Time,Users had not Logged In for an Excessively Long Time,Software,Info,Functional,Neteco
+Indoor Return Vent Temperature Sensor Missing,Indoor Return Vent Temperature Sensor Missing,the Temperature Sensor was Missing in the Indoor Return Vent,Hardware,Info,Functional,Neteco
+HEX Cabinet Electronic Label Read Failure,Hex Cabinet Electronic Label Read Failure,a label Read Failure occurred in the Hex Cabinet,Hardware,Info,Functional,Neteco
+Battery 1 Fuse Break,Battery One Fuse Break,a Fuse Broke in the first Battery,Hardware,Failure,Functional,Neteco
+Battery 2 Fuse Break,Battery Two Fuse Break,a Fuse Broke in the second Battery,Hardware,Failure,Functional,Neteco
+Outdoor Temperature Sensor Fault,Outdoor Temperature Sensor Fault,the Outdoor Temperature Sensor Failed,Hardware,Info,Functional,Neteco
+Outdoor Temperature Sensor Not Detected,Outdoor Temperature Sensor Not Detected,the Outdoor Temperature Sensor was Not Detected,Hardware,Info,Functional,Neteco
+INFAN2 Fault,Second Indoor Fan Fault,the Second Indoor Fan stopped working,Hardware,Emergency,Functional,Neteco
+Load Remote Control Disconnected,Load Remote Control Disconnected,the Load Remote Control was Disconnected,Hardware,Info,Functional,Neteco
+Battery Capacity Low,Battery Capacity Low,the Battery Capacity went Low,Power,Info,Functional,Neteco
+Timed Maintenance Reminder,Timed Maintenance Reminder,the power system must unndergo a Timed Maintenance,Hardware,Info,Functional,Neteco
+MUS01A Board Communication Failure,MUS01A Board Communication Failure,a Communication Failed in the First system Board,Software,Failure,Functional,Neteco
+Door Open Time Out Alarm,Door Open Time Out Alarm,a Door Open event was Timed Out,Hardware,Emergency,Functional,Neteco
+Door Status Sensor Alarm,Door Status Sensor Alarm,a Door Status Sensor alarm sounded,Hardware,Emergency,Functional,Neteco
+SSU Protection,SSU Protection,a power unit Protection alarm was triggered,Hardware,Info,Functional,Neteco
+BMU Missing,BMU Missing,a power unit was Missing,Power,Info,Functional,Neteco
+The User in the SMManagers Group Changes a User's Password,The User in the SMManagers Group Changes a User's Password,The User in the Managers Group Changes a User Password,Software,Info,Functional,Neteco
+Lithium battery Protection,Lithium battery Protection,the Lithium battery Protection alarm was triggered,Hardware,Info,Functional,Neteco
+Lithium battery Failure,Lithium battery Failure,the Lithium battery Failed,Hardware,Failure,Functional,Neteco
+Door Alarm,Door Alarm,a Door Alarm sounded,Hardware,Emergency,Functional,Neteco
+DIN6 Alarm,Sixth Dry Contact Input Alarm,the Sixth Dry Contact Input Alarm sounded,Hardware,Failure,Functional,Neteco
+TCUC Communication Failure,TCUC Communication Failure,the Communication Failed in a controller unit,Software,Failure,Functional,Neteco
+AC Branch Fault,Alternating Current Branch Fault,the Alternating Current Branch Failed,Power,Failure,Functional,Neteco
+DC Ultra Undervoltage,Direct Current Ultra Undervoltage,the Direct Current source heavily went Undervoltage,Power,Info,Functional,Neteco
+AC Loop Fault,Alternating Current Loop Fault,the Alternating Current Loop Failed,Power,Failure,Functional,Neteco
+Camera Communication Failure,Camera Communication Failure,a Camera Communication Failed,Software,Failure,Functional,Neteco
+AC Charge Fault,Alternating Current Charge Fault,the Alternating Current source Charge Failed,Hardware,Failure,Functional,Neteco
+AWL Failure,AWL Failure,Unknown system Failed,Hardware,Failure,Functional,Neteco
+NIM02D Fault,NIM02D Fault,Unknown system Failed,Hardware,Failure,Functional,Neteco
+Intelligent DC Air Conditioner Nonautomatic Mode Alarm,Intelligent Direct Current Air Conditioner Nonautomatic Mode Alarm,a Nonautomatic alarm sounded in the Intelligent Air Conditioner,Hardware,Info,Functional,Neteco
+Battery Not Detected,Battery Not Detected,the Battery was Not Detected,Power,Info,Functional,Neteco
+Load Fuse 1 Broken,Load Fuse One Broken,the first Load Fuse Broke,Hardware,Failure,Functional,Neteco
+Load Fuse 2 Broken,Load Fuse Two Broken,the second Load Fuse Broke,Hardware,Failure,Functional,Neteco
+DIN4 Alarm,Fourth Dry Contact Input Alarm,the Fourth Dry Contact Input Alarm sounded,Hardware,Failure,Functional,Neteco
+All Li Batt Communication Failure,All Li Batt Communication Failure,All Lithium Battery Communications Failed,Software,Failure,Networking,Neteco
+All Rectifiers Fail to Communicate,All Rectifiers Fail to Communicate,All Rectifiers Failed to Communicate,Software,Failure,Networking,Neteco
+PSU Off,Power Supply Unit Off,the Power Supply Unit turned Off,Hardware,Info,Functional,Neteco
+Force Battery On,Force Battery On,the Battery system was forcibly turned On,Hardware,Emergency,Functional,Neteco
+Internal Fault,Internal Fault,an Internal Fault occurred,Hardware,Failure,Functional,Neteco
+Miss Amb Temp1,Miss Amb Temp1,the Ambient Temperature data was missing,Hardware,Info,Functional,Neteco
+Miss Amb Humi1,Miss Amb Humi1,the Ambient Humidity data was missing,Hardware,Info,Functional,Neteco
+Abnormal System Voltage Check,Abnormal System Voltage Check,the System Voltage Check was abnormal,Power,Info,Functional,Neteco
+Infrared Sensor Alarm,Infrared Sensor Alarm,Infrared Sensor had problems,Hardware,Info,Functional,Neteco
+Mobile DG Required,Mobile DG Required,the Mobile Diesel Generator was Required,Power,Info,Functional,Neteco
+Routine Maintenance Reminder,Routine Maintenance Reminder,a power system Routine Maintenance must take place,Hardware,Info,Functional,Neteco
+Smoke Alarm,Smoke Alarm,a Smoke was detected in the power system,Hardware,Emergency,Functional,Neteco
+Load Fuse1 Broken,Load Fuse1 Broken,the First Load Fuse Broke,Hardware,Failure,Functional,Neteco
+AC SPD Failure,Alternating Current SPD Failure,an Alternating Current source Failed,Power,Failure,Functional,Neteco
+SMU Internal Fault,Energy Storage Management Unit Internal Fault,an Internal Fault occurred in the Energy Storage Management Unit,Hardware,Failure,Functional,Neteco
+Alarm For Spare DI 2,Alarm For Spare Dry Contact Input Two,the second Dry Contact Input alarm sounded,Hardware,Info,Functional,Neteco
+Alarm For Spare DI 1,Alarm For Spare Third Dry Contact Input One,the first Dry Contact Input alarm sounded,Hardware,Info,Functional,Neteco
+Internal Fan 1 Fault,Internal Fan One Fault,the first Internal Fan stopped working,Hardware,Emergency,Functional,Neteco
+Battery Attenuation,Battery Attenuation,a Battery voltage Attenuation detected,Power,Info,Functional,Neteco
+Rectifier Communication Failure,Rectifier Communication Failure,the Communication Failed in the power Rectifier,Software,Failure,Functional,Neteco
+Battery Low Temperature,Battery Low Temperature,the Battery Temperature went low,Power,Info,Functional,Neteco
+BBU CPRI Interface Error,,a Public Radio Interface Error occurred in the Baseband Unit,Hardware,Info,Functional,MAE
+Local Cell Unusable,,the Local communication Cell was Unusable,Hardware,Failure,Functional,MAE
+RF Unit Maintenance Link Failure,,a Maintenance Link Failed in the Radio Frequency Unit,Hardware,Failure,Functional,MAE
+GSM Local Cell Unusable,,the Local communication Cell was Unusable in the Global System for Mobile Communication system,Hardware,Failure,Functional,MAE
+RF Unit DC Input Power Failure,,an Input Power source Failed in the Radio Frequency Unit,Power,Failure,Functional,MAE
+Generator ON,,the Diesel Generator was started,Power,Info,Functional,MAE
+Ampere On,,the Ampere source was started,Power,Info,Functional,MAE
+Remote Maintenance Link Failure,,the Remote Maintenance Link Failed,Hardware,Failure,Networking,MAE
+External Clock Reference Problem,,a Reference Problem occurred in the External Clock,Software,Info,Functional,MAE
+IP Clock Link Failure,,the Clock Link Failed in the Internet Protocol,Software,Failure,Functional,MAE
+Generator Low Fuel,,the Diesel Generator Fuel nearly depleted,Power,Info,Functional,MAE
+Cell Unavailable,,the communication Cell was Unavailable,Hardware,Failure,Functional,MAE
+Low Battery Voltage,,the Battery Voltage went low,Hardware,Info,Functional,MAE
+Power Supply DC Output Out of Range,,the Power Supply Current went Out of Range,Hardware,Info,Functional,MAE
+X2 Interface Fault,,the Interface Failed between the evolved communication Nodes,Software,Failure,Networking,MAE
+RF Unit External Power Supply Insufficient,,the External Power Supply was Insufficient in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+eNodeB S1 Control Plane Transmission Interruption,,a Transmission was Interrupted in the Control Plane of the Evolved Node Interface,Software,Info,Functional,MAE
+Transmission Optical Interface Error,,a Transmission Optical Interface Error occured,Software,Info,Functional,MAE
+Radio Signaling Link Disconnected,,the Radio Signaling Link was Disconnected,Hardware,Failure,Networking,MAE
+UMTS Cell Unavailable,,the Universal Mobile Telecommunications System Cell was Unavailable,Hardware,Failure,Functional,MAE
+NodeB Unavailable,,the communication Node was Unavailable,Hardware,Failure,Functional,MAE
+UMTS Cell MC-HSDPA Function Fault,,a Function Failed at the Universal Mobile Telecommunications System Cell Multi Carrier High Speed DownLink Packet Access,Hardware,Info,Functional,MAE
+FCB Mains Failure,,the Mains system Failed,Hardware,Info,Functional,MAE
+Adjacent Node IP Address Ping Failure,,an Address Ping Failed in the Adjacent Node Internet Protocol,Software,Info,Networking,MAE
+NodeB Audit No Response,,the communication Node Audit gave No Response,Software,Info,Functional,MAE
+Sensor Failure,,a Sensor stopped working,Hardware,Info,Functional,MAE
+Cabinet Air Inlet Temperature Unacceptable,,Cabinet Air Inlet Temperature Unacceptable,Hardware,Emergency,Functional,MAE
+OML Fault,,a Link Failed at the Operation and Maintenance system,Hardware,Failure,Networking,MAE
+ESL Link Fault,,a Link Failed at the Extended Signaling system,Hardware,Failure,Networking,MAE
+CF HU 2 Mains Failure,,the second Mains Failed in the Critical Facility,Hardware,Info,Functional,MAE
+UMTS Cell Common Channel Setup Failed,,Universal Mobile Telecommunications System Cell Common Channel Setup Failed,Configuration,Failure,Functional,MAE
+Statistical Alarm,,the Statistical Alarm sounded,Hardware,Emergency,Functional,MAE
+Base Station DC Power Supply Abnormal,,the Power Supply was Abnormal in the Base Station,Power,Info,Functional,MAE
+Mains Failure,,the Mains source Failed,Hardware,Info,Functional,MAE
+NE Is Disconnected,,the network element was Disconnected,Hardware,Failure,Functional,MAE
+LI HW X1 Interface Link Status Fault,,a Hardware Interface Link Status Failed,Configuration,Failure,Functional,MAE
+GSM Cell out of Service,,the Cell went out of Service at the Global System for Mobile Communications,Hardware,Failure,Functional,MAE
+CSL Fault,,the link that carries operation and maintenance information Failed,Hardware,Failure,Networking,MAE
+Monitoring Device Maintenance Link Failure,,a Link Failed in Monitoring Device Maintenance,Hardware,Failure,Networking,MAE
+Fan Stalled,,the Fan Stalled,Hardware,Emergency,Functional,MAE
+S1ap Link Down,,a Link was Down in the application protocol of interface between the Long Term Evaluation Radio Access Network and evolved packet core,Hardware,Failure,Networking,MAE
+CF DWDM Generator2 On,,the second Diesel Generator was started in the Critical Facility,Power,Info,Functional,MAE
+RF Unit RX Channel RTWP/RSSI Too Low,,Radio Frequency Unit Receivers Channel for the Received Total Wideband Power was Too Low,Hardware,Info,Functional,MAE
+CF DWDM AC Failure S1,,the Alternating Current source Failed in the Critical Facility,Power,Failure,Functional,MAE
+UMTS Cell Max DL Power Mismatch,,a Power Mismatch was detected in the Universal Mobile Telecommunications System Cell Max Downlink,Power,Failure,Functional,MAE
+CF DWDM AC Failure M1,,the Alternating Current source Failed in the Critical Facility,Power,Failure,Functional,MAE
+RF Unit Input Power Out of Range,,the Power went Out of Range in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+Cell RX Channel Interference Noise Power Unbalanced,,the Noise Power was Unbalanced in the Cell Receivers Channel Interference,Hardware,Info,Functional,MAE
+Ethernet Link Fault,,Ethernet Link Failed,Hardware,Failure,Networking,MAE
+Path Fault,,a Path Fault was detected,Software,Info,Networking,MAE
+CF HU Mains Failure,,the Mains Failed in the Critical Facility,Hardware,Info,Functional,MAE
+CF DWDM Fire Alarm Panel Fault,,the Fire Alarm Panel Failed in the Critical Facility,Hardware,Emergency,Functional,MAE
+SCTP IP Pair Unreach,,the Internet Protocol Pair could not be reached in the Stream Control Transmission Protocol,Software,Info,Networking,MAE
+SCTP Link Fault,,a Link Failed in the Stream Control Transmission Protocol,Hardware,Failure,Networking,MAE
+Adjacent Node IP Path Ping Failure,,a Ping Failed in the Adjacent Node Internet Protocol Path,Software,Info,Networking,MAE
+Fuse Alarm,,the Fuse Alarm sounded,Hardware,Emergency,Functional,MAE
+RF Unit TX Channel Gain Out of Range,,the Gain went Out of Range in the Transmiters Channel of the Radio Frequency Unit,Hardware,Info,Functional,MAE
+Time Synchronization Failure,,the Time Synchronization Failed,Software,Failure,Functional,MAE
+Inter-System Communication Failure,,the Inter System Communication Failed,Software,Failure,Networking,MAE
+ALD Maintenance Link Failure,,the Maintenance Link Failed in the Antenna Line Device,Hardware,Failure,Networking,MAE
+RF Unit RX Channel RTWP/RSSI Unbalanced,,Radio Frequency Unit Receivers for the Channel Received Total Wideband Power Unbalanced,Hardware,Info,Functional,MAE
+BBU Board Maintenance Link Failure,,the Maintenance Link Failed in the Baseband Unit Board,Hardware,Failure,Networking,MAE
+RF Unit CPRI Interface Error,,an Interface Error occurred in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+C/D interface location update flux over load,,an interface location update flux overloaded,Hardware,Info,Networking,MAE
+CF Generator ON,,the Critical Facility Diesel Generator was turned on,Power,Info,Functional,MAE
+RF Unit Optical Module Fault,,the Optical Module Failed in the Radio Frequency Unit,Hardware,Failure,Functional,MAE
+RF Unit VSWR Threshold Crossed,,the voltage standing wave ratio Threshold was Crossed in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+Generator Failure,,the Diesel Generator Failed,Power,Failure,Functional,MAE
+Fire Alarm Trouble,,the Fire Alarm suffered some Trouble,Hardware,Emergency,Functional,MAE
+RF Unit Software Program Error,,a Software Program Error occurred in the Radio Frequency Unit,Software,Failure,Functional,MAE
+Failed to Send the Remote Notification,,Failed to Send the Remote Notification,Software,Info,Networking,MAE
+Rectifier Fault,,the Rectifier Failed,Hardware,Failure,Functional,MAE
+All Clock Reference Sources Unavailable,,All Clock Reference Sources were Unavailable,Software,Failure,Functional,MAE
+CF DWDM Generator ON,,the Diesel Generator was started of the Dense Wavelength Division Multiplexing in the Critical Facility,Power,Info,Functional,MAE
+Abnormal Reference Source,,an Abnormal Reference Source detected,Hardware,Info,Functional,MAE
+Satellite Signal Receiving Failure,,the Satellite Signal Receiving Failed,Hardware,Failure,Functional,MAE
+MAC Excessive Frame Error Rate,,an Excessive Frame Error Rate was recorded in the Meduim Access Control,Software,Info,Networking,MAE
+Monitoring Device Power Supply Problem,,a Power Supply Problem occurred in the Monitoring Device,Power,Failure,Functional,MAE
+CF Power Room UPS Mains Failure,,the Uninterruptible Power Supply Mains Failed in the Critical Facility Power Room,Hardware,Failure,Functional,MAE
+CF Power Room UPS 2 Mains Failure,,the second Uninterruptible Power Supply Mains Failed in the Critical Facility Power Room,Hardware,Failure,Functional,MAE
+CF EL Rectifier Fault,,a Rectifier Failed in the Critical Facility,Hardware,Failure,Functional,MAE
+KPI Exceed Threshold,,the Key Performance Indicators Exceeded the Threshold,Software,Info,Functional,MAE
+Cell Capability Degraded,,the Cell Capability was Degraded,Hardware,Info,Functional,MAE
+FCB High Temperature,,High Temperature was recorded,Hardware,Info,Functional,MAE
+LAPD Link Congestion,,the link access procedure over the fourth channel Link Congested,Hardware,Info,Networking,MAE
+CF Power Room High Temperature,,a High Temperature was recorded in the Power Room of the Critical Facility,Hardware,Info,Functional,MAE
+CF Fire Alarm Panel Fault,,a Fire Alarm sounded in the panel of the Critical Facility,Hardware,Emergency,Functional,MAE
+Inter-Board CANBUS Communication Failure,,a Communication Failed at the Inter Board of the controller Area Network,Software,Info,Networking,MAE
+External Clock Reference Not Configured,,the External Clock Reference was Not Configured,Configuration,Info,Functional,MAE
+Ambient Humidity Unacceptable,,the Ambient Humidity reading was Unacceptable,Hardware,Info,Functional,MAE
+Battery Not In Position,,the Battery was Not In the proper Position,Hardware,Info,Functional,MAE
+Configured Capacity Limit Exceeding Licensed Limit,,the Configured Capacity Limit Exceeded the Licensed Limit,Configuration,Info,Functional,MAE
+CF Generator On,,the Diesel Generator was started in the Critical Facility,Power,Info,Functional,MAE
+CF Power Room EM Mains Failure,,the Mains Failed at the Equipment Management of the Critical Facility Power Room,Power,Info,Functional,MAE
+Mains Input Out of Range,,the Mains Input went Out of Range,Power,Info,Functional,MAE
+System Dynamic Traffic Exceeding Licensed Limit,,the System Dynamic Traffic Exceeded the Licensed Limit,Software,Info,Networking,MAE
+CF Power Room 2 UPS 2 Mains Failure,,the second Uninterruptible Power Supply Mains Failed in the second Critical Facility Power Room,Power,Failure,Functional,MAE
+CF Load Gear Trip,,Critical Facility Load Gear Trip,Hardware,Info,Functional,MAE
+CF Power Room 2 UPS Mains Failure,,the Uninterruptible Power Supply Mains Failed in the second Critical Facility Power Room,Power,Failure,Functional,MAE
+CF Tank Level Panel Failure,,a Tank Level failure occurred in the Critical Facility panel,Hardware,Info,Functional,MAE
+CF Power Room AC Failure M2,,Critical Facility Power Room Alternating Current Failure in the first module,Power,Failure,Functional,MAE
+CF Power Room AC Failure M1,,Critical Facility Power Room Alternating Current Failure in the second module,Power,Failure,Functional,MAE
+CF AC Failure M6,,the sixth Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure M5,,the fifth Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure M4,,the fourth Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure M3,,the third Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure M2,,the second Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure M1,,the first Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+Remote Maintenance Link Running Data and Configuration Mismatch,,a Configuration Mismatch occurred when Remote Maintenance Link was Running,Configuration,Failure,Functional,MAE
+CF High Temperature,,a Critical Facility High Temperature was recorded,Hardware,Info,Functional,MAE
+CF AC Failure S2,,Critical Facility Alternating Current Failed,Power,Failure,Functional,MAE
+CF AC Failure S1,,the Alternating Current source Failed in the Interface between network Node and the evolved packet core in the Critical Facility,Power,Failure,Networking,MAE
+CF Generator2 ON,,the second Diesel Generator was started in the Critical Facility,Power,Info,Functional,MAE
+CF Power Room Fire Alarm Panel Fault,,a fire alarm sounded in the panel of the Critical Facility Power Room,Hardware,Emergency,Functional,MAE
+UMTS Cell HSUPA Function Fault,,a Function Failed in the Universal Mobile Telecommunications System Cell High Speed DownLink Packet Access,Software,Info,Functional,MAE
+UMTS Cell HSDPA Function Fault,,a Function Failed in the Universal Mobile Telecommunications System Cell High Speed DownLink Packet Access,Software,Info,Functional,MAE
+Inter-Board Service Link Failure,,a Service Link Failed between Boards,Hardware,Failure,Networking,MAE
+CF Power Room 2 Fire Alarm Panel Fault,,a fire alarm sounded in the panel of the Critical Facility second Power Room,Hardware,Emergency,Functional,MAE
+CF Power Room UPS General Fault,,an Uninterruptible Power Supply General Fault occurred in the Critical Facility Power Room,Power,Failure,Functional,MAE
+CF Power Room UPS 2 General Fault,,the second Uninterruptible Power Supply Failed in the Critical Facility Power Room,Power,Failure,Functional,MAE
+CF Power Room 3 Fire Alarm Panel Fault,,a fire alarm sounded in the panel of the Critical Facility third Power Room,Hardware,Emergency,Functional,MAE
+CF EL 2 Battery Disconnection,,the Battery was Disconnected in the Critical Facility,Power,Failure,Functional,MAE
+CF EL 2 Mains Failure,,the Mains Failed in the Critical Facility,Power,Info,Functional,MAE
+CF AC Split Failure,,Failed to split the Alternating Current at the Critical Facility,Power,Failure,Functional,MAE
+Carrier Configuration Error,,a Carrier Configuration Error occured,Configuration,Failure,Functional,MAE
+CF Generator2 on,,the second Diesel Generator was started in the Critical Facility,Power,Info,Functional,MAE
+CF DWDM AC Failure M2,,the Alternating Current source Failed in the Critical Facility Dense Wavelength Division Multiplexing,Power,Failure,Functional,MAE
+CF DWDM High Temperature,,a High Temperature was recorded in the Dense Wavelength Division Multiplexing at the Critical Facility,Hardware,Info,Functional,MAE
+Communications Between CG and SGSN Interrupted,,Communications Between Charging Gateway and Serving General Packet Radio Service Support Node Interrupted,Software,Info,Networking,MAE
+CF High Temperature S2,,a High Temperature was recorded In the Critical Facility,Hardware,Info,Functional,MAE
+RF Unit Clock Problem,,a Clock Problem occurred in the Radio Frequency Unit,Software,Info,Functional,MAE
+Burglar Alarm,,Burglar Alarm sounded,Hardware,Emergency,Functional,MAE
+Cell Output Power too Low,,a degredation the Cell Output Power was recorded,Hardware,Info,Functional,MAE
+The GSN Does not Respond to the CG,,The General Packet Radio Service Support Node Does not Respond to the Charging Gateway,Software,Info,Networking,MAE
+RF Unit Hardware Fault,,the hardware failed in the Radio Frequency Unit,Hardware,Failure,Functional,MAE
+FCB Door Open,,a Door was Opened,Hardware,Emergency,Functional,MAE
+Task execution failure alarm,,Task execution failed,Software,Failure,Functional,MAE
+Generator2 ON,,the second Diesel Generator was started,Power,Info,Functional,MAE
+BBU DC Output Out of Range,,the Direct Current output went Out of Range in the Baseband Unit,Power,Info,Functional,MAE
+CF DWDM AC Failure M3,,the Alternating Current Failed in the Critical Facility Dense Wavelength Division Multiplexing,Power,Failure,Functional,MAE
+High Temperature 2,,a High Temperature was recorded,Hardware,Info,Functional,MAE
+RF Unit ALD Current Out of Range,,the Electrical Current was Out of Range in the Antenna Line Device of the Radio Frequency Unit,Power,Info,Functional,MAE
+GTPC Tunnel Path Broken,,the Tunnel Path Broke at the General Packet Radio Service Tunneling Protocol,Software,Failure,Networking,MAE
+Power Module and Monitoring Module Communication Failure,,the Communication Failed between the Power Module and the Monitoring Module,Software,Info,Networking,MAE
+Battery Power Unavailable,,the Battery Power was Unavailable,Power,Info,Functional,MAE
+CF EL Mains Failure,,the Mains Failed in the Critical Facility,Power,Info,Functional,MAE
+CF EL 2 Rectifier Fault,,the Rectifier Failed in the Critical Facility,Hardware,Failure,Functional,MAE
+SCTP Link Congestion,,the Link Congested in the Stream Control Transmission Protocol,Hardware,Info,Networking,MAE
+S1 Interface Fault,,the Interface failed between communication Node and the evolved packet core,Software,Failure,Networking,MAE
+High Temperature,,a High Temperature was recorded,Hardware,Info,Functional,MAE
+CF Zone 2 High Temperature,,a High Temperature was recorded in the second critical Facility Zone,Hardware,Info,Functional,MAE
+CF HU3 Mains Failure,,the power Mains Failed in the Critical Facility,Power,Info,Functional,MAE
+CF Door Open,,Critical Facility Door was Opened,Hardware,Emergency,Functional,MAE
+CF EL Fuse Alarm,,the Fuse Alarm sounded in the Critical Facility,Hardware,Emergency,Functional,MAE
+Battery Current Out of Range,,the Battery Current was Out of Range,Power,Info,Functional,MAE
+RAN IP/ATM Bearer Status Fault,,a Bearer Failed in the radio access network Asynchronous Transfer Mode,Hardware,Failure,Networking,MAE
+BBU CPRI Optical Module or Electrical Port Not Ready,,either the Optical Module or the Electrical Port was not ready in the Baseband Unit,Software,Info,Functional,MAE
+CF HU Low Battery Voltage,,the Battery Voltage went low at the Critical Facility,Power,Info,Functional,MAE
+KPI Decrease Exceeding Threshold,,Key Performance Indicators Decrease Exceeded the set Threshold,Software,Info,Functional,MAE
+Database backup failure,,Database backup failed,Configuration,Info,Functional,MAE
+Communication between the IO board of network port and DSS is interrupted.,,Communication between the Input and Output board of network port and Digital Subscriber Signaling is interrupted,Software,Info,Networking,MAE
+BBU CPRI Optical Module Fault,,the Optical Module failed at the Public Radio Interface of the Baseband Unit,Hardware,Failure,Functional,MAE
+Decline of KPI entity exceeds threshold,,the Decline of Key Performance Indicators entity exceeded the threshold,Software,Info,Functional,MAE
+Load Disconnect,,the Load was Disconnected,Hardware,Info,Functional,MAE
+Building UPS Alert,,the Building Uninterruptible Power Supply was triggered,Power,Info,Functional,MAE
+Path Configuration Error,,an error occurred at the Path Configuration,Configuration,Failure,Functional,MAE
+Door Open,,the Door was opened,Hardware,Emergency,Functional,MAE
+MTP3 link failure,,a link failed at the message transfer part level? three,Hardware,Failure,Networking,MAE
+SCTP Link IP Address Unreachable,,the internet link address was unreachable in the Stream Control Transmission Protocol,Software,Info,Networking,MAE
+There are CDRs in SRU hard disk,,There are Call Detail Records in Routing and switching board hard disk,Hardware,Info,Functional,MAE
+Board Hardware Fault,,a Hardware Fault occurred at the Board,Hardware,Failure,Functional,MAE
+No response from the CG,,No response from the Charging Gateway,Software,Info,Functional,MAE
+RF Unit Temperature Unacceptable,,the Temperature was Unacceptable in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+Number of Resources Used Reaching Alarm Threshold Specified by License,,Many of the used Resources Reached the Alarm Threshold Specified by License,Software,Info,Functional,MAE
+Board Port Detection Abnormal,,the Port Detection was abnormal in the board,Hardware,Info,Functional,MAE
+Free Storage Space Insufficient,,Free Storage Space was Insufficient,Software,Info,Functional,MAE
+License Feature Expiring Precaution,,the License Feature Expires soon,Software,Info,Functional,MAE
+License File Expiring Precaution,,the License File Expires soon,Software,Info,Functional,MAE
+CF DWDM Low Fuel,,Fuel nearly depleted at the Dense Wavelength Division Multiplexing of the Critical Facility,Power,Info,Functional,MAE
+License about to expire,,the License is about to expire,Software,Info,Functional,MAE
+SCTP association retransmission above the threshold,,the association of Stream Control Transmission Protocol was retransmitted above the threshold,Software,Info,Networking,MAE
+Cell PS Service Faulty,,the Packet Switched Service Failed at the Cell,Software,Failure,Functional,MAE
+Base Station Service Overload,,Base Station Service was Overloaded,Software,Info,Functional,MAE
+CPU Overload,,the Central Processing Unit suffered an Overload,Software,Info,Functional,MAE
+Disk Space Is Insufficient,,the Disk Space was Insufficient,Software,Info,Functional,MAE
+Board Overload,,the Board suffered from Overload,Software,Info,Functional,MAE
+NTP connection failed,,the Network Transfer Protocol Server connection failed,Software,Info,Networking,MAE
+CF HU Rectifier Fault,,the Rectifier Failed in the Critical Facility,Hardware,Failure,Functional,MAE
+Module level decline of KPI entity exceeds threshold,,the Module level decline of Key Performance Indicators entity exceeded the threshold,Software,Info,Functional,MAE
+CF DWDM High Temperature S2,,a High Temperature was recorded in the Critical Facility Dense Wavelength Division Multiplexing,Hardware,Info,Functional,MAE
+License is about to use up,,the License is about to be used up,Software,Info,Functional,MAE
+Radio Link Failure,,the Radio Link Failed,Hardware,Failure,Networking,MAE
+BSS Internal Voice Channel Abnormal,,the Internal Voice Channel was Abnormal in the Base Station Subsystem,Hardware,Info,Functional,MAE
+Trunk Congestion Alarm,,the Trunk Congestion Alarm sounded,Hardware,Info,Functional,MAE
+M3UA link fault,,the Message Transfer User Adaptation Layer link failed,Hardware,Failure,Networking,MAE
+Number of trunk group's fault circuits exceed threshold,,the Number of trunk group fault circuits exceeded the threshold,Hardware,Info,Functional,MAE
+M3UA destination entity is inaccessible,,the Message Transfer User Adaptation Layer destination entity was inaccessible,Software,Info,Functional,MAE
+M3UA route is unavailable,,the Message Transfer User Adaptation Layer route was unavailable,Software,Info,Functional,MAE
+SDH/STM-1 path fault,,the first Synchronous Digital Hierarchy or Transport Modules path failed,Software,Failure,Networking,MAE
+Battery Disconnection,,Battery Disconnection,Power,Info,Functional,MAE
+Carrier No Traffic,,No Traffic was detected in the Carrier,Software,Info,Networking,MAE
+Board Software Synchronization Failure,,Board Software Synchronization Failed,Software,Failure,Functional,MAE
+RF Unit Overload,,Radio Frequency Unit was Overloaded,Software,Info,Functional,MAE
+CF Generator2 Failure,,the second Diesel Generator Failed at the Critical Facility,Power,Failure,Functional,MAE
+High Battery Voltage,,High Battery Voltage detected,Power,Info,Functional,MAE
+CF Low Fuel,,the fuel nearly depleted in the Critical Facility,Power,Info,Functional,MAE
+CF Generator Failure,,the Diesel Generator Failed in the Critical Facility,Power,Failure,Functional,MAE
+UMTS Cell Setup Failed,,the Cell Setup Failed at the Universal Mobile Telecommunications System,Configuration,Failure,Functional,MAE
+Logical Object Binding Error,,a Logical Object Binding Error occurred,Software,Failure,Functional,MAE
+UMTS Cell Common Channel Reconfiguration Failed,,the Cell Common Channel Reconfiguration Failed in the Universal Mobile Telecommunications System,Configuration,Failure,Functional,MAE
+Configuration Data Inconsistency,,the Configuration Data was Inconsistent,Configuration,Info,Functional,MAE
+GTPU Tunnel Path Broken,,the Tunnel Path Broke in the General Packet Radio Service Tunneling Protocol in User Plane,Software,Failure,Networking,MAE
+CF DWDM Door Open,,a Door was Opened at the Dense Wavelength Division Multiplexing of the Critical Facility,Hardware,Emergency,Functional,MAE
+GSM Local Cell Capability Decline,,a Decline was detected at the local cell capability of the Global System for Mobile Communications,Software,Info,Functional,MAE
+CF HU3 Rectifier Fault,,the Rectifier Failed in the Critical Facility,Hardware,Failure,Functional,MAE
+Remote SCCP failure,,the Remote Signaling Connection Control Part failed,Software,Failure,Networking,MAE
+M3UA association set fault,,the association set failed for the Message Transfer User Adaptation Layer,Hardware,Failure,Functional,MAE
+M3UA SCTP fault,,the Stream Control Transmission Protocol failed for the Message Transfer User Adaptation Layer,Software,Failure,Networking,MAE
+M3UA association fault,,the Message Transfer User Adaptation Layer association failed,Hardware,Failure,Functional,MAE
+The path status of M3UA SCTP association fault,,The path status failed of Message Transfer User Adaptation Layer Stream Control Transmission Protocol association,Software,Info,Networking,MAE
+Cabinet Air Outlet Temperature Unacceptable,,the Cabinet Air Outlet Temperature was Unacceptable,Hardware,Info,Functional,MAE
+RF Unit Working Mode and Board Capability Mismatch,,a Mismatch occurred between the Working Mode and Board Capability of the Radio Frequency Unit,Software,Failure,Networking,MAE
+CF DWDM Generator2 Failure,,the second Diesel Generator Failed in the Dense Wavelength Division Multiplexing of the Critical Facility,Power,Failure,Functional,MAE
+RF Unit Runtime Topology Error,,a Runtime Topology Error was recorded in the radio Frequency Unit,Software,Info,Functional,MAE
+CF EM Mains Failure,,the Mains Failed at the Critical Facility Equipment Management,Power,Info,Functional,MAE
+PTP BVC Faulty,,the Precision Time Protocol Base Station System General Packet Radio Service Protocol virtual connection was Faulty,Software,Info,Functional,MAE
+CF DWDM Generator Failure,,the Diesel Generator Failed at the Dense Wavelength Division Multiplexing of the Critical Facility,Power,Failure,Functional,MAE
+The User in the SMManagers Group Changes a User's Password,,The User in the Security Managers Group Changes a User Password,Security,Info,Functional,MAE
+CF Mains Continuous Failure,,a Continuous Mains Failure occurred at the Critical Facility,Power,Info,Functional,MAE
+Number of Subscribers Approaching the Threshold Specified by the License,,Many Subscribers Approached the Threshold Specified by the License,Software,Info,Functional,MAE
+CF Generator3 ON,,the third Generator was started in the Critical Facility,Power,Info,Functional,MAE
+CF Generator5 On,,the fifth Generator was started in the Critical Facility,Power,Info,Functional,MAE
+CF Zone 2 Fire Alarm Panel Fault,,a Fire Alarm sounded at the second zone Panel in the Critical Facility,Hardware,Emergency,Functional,MAE
+CF Power Room High Temperature 2,,a High Temperature was recorded in the Power room of the critical Facility,Hardware,Info,Functional,MAE
+Fire Alarm,,Fire Alarm sounded,Hardware,Emergency,Functional,MAE
+Data Configuration Exceeding Licensed Limit,,the Data Configuration Exceeded the Licensed Limit,Configuration,Info,Functional,MAE
+License on Trial,,the License is on Trial mode,Software,Info,Functional,MAE
+No License Running in System,,No License was found in System,Software,Info,Functional,MAE
+CF Power Room3 Fire Alarm,,a Fire Alarm sounded in the third Power Room of the Critical Facility,Hardware,Emergency,Functional,MAE
+Board Not In Position,,the Board was Not In the proper Position,Hardware,Info,Functional,MAE
+GSM KPI Exceed Threshold,,the Global System for Mobile Communications Key Performance Indicators Exceeded the Threshold,Software,Info,Functional,MAE
+LI HW X2 Interface Link Status Fault,,a Link Status Failed at the Hardware Interface between the evolved telecom node Interface,Hardware,Failure,Networking,MAE
+RET Antenna Not Calibrated,,the remote electrical tilting unit Antenna was Not Calibrated,Configuration,Info,Functional,MAE
+RF Unit ALD Switch Configuration Mismatch,,a Configuration Mismatch occurred at the switch of the Antenna Line Device in the Radio Frequency Unit,Configuration,Failure,Functional,MAE
+SCCP DSP Congestion,,the Signaling Connection Control Part Digital signal processing was Congested,Software,Info,Functional,MAE
+SCTP path failure,,the path failed in the Stream Control Transmission Protocol,Software,Failure,Networking,MAE
+M3UA link failure,,a link failed in the Message Transfer User Adaptation Layer,Hardware,Failure,Networking,MAE
+SCCP SSN Paused,,Signaling Connection Control Part Subsystem Number Paused,Software,Info,Functional,MAE
+SCCP DSP Inaccessible,,Signaling Connection Control Part Digital signal processing was Inaccessible,Software,Info,Functional,MAE
+H.248 SCTP link transmission quality failure,,a link transmission quality failed in the Gateway Control Protocol Stream Control Transmission Protocol,Software,Failure,Networking,MAE
+H.248 signaling link fault,,Gateway Control Protocol signaling link failed,Software,Failure,Networking,MAE
+RF Unit Power Surge Protector Fault,,the power surge protector failed in the Radio Frequency Unit,Hardware,Info,Functional,MAE
+M3UA Signaling Link Failed,,Message Transfer User Adaptation Layer Signaling Link Failed,Software,Failure,Networking,MAE
+The license resource exceeds the threshold,,The license resource exceeded the threshold,Software,Info,Functional,MAE
+H.248 SCTP link failure,,a link failed in the Gateway Control Protocol Stream Control Transmission Protocol,Software,Failure,Networking,MAE
+Insecure Configuration Is Enabled,,the Insecure Configuration was Enabled,Security,Info,Functional,MAE
+Abnormal OMU Resources,,the Optical Multiplex Unit Resources were Abnormal,Hardware,Info,Functional,MAE
+System Backup Failed,,the System Backup Failed,Configuration,Info,Functional,MAE
+CF Power Room3 High Temperature,,a High Temperature was recorded in the third Power Room of the Critical Facility,Hardware,Info,Functional,MAE
+Generator2 failure,,the second Diesel Generator failed,Power,Failure,Functional,MAE
+CF Power Room 2 Fire Alarm,,a fire alarm sounded in the second Power Room of the Critical Facility,Hardware,Emergency,Functional,MAE
+CDR Processing Overloaded,,the Call Detail Record Processing Overloaded,Software,Info,Functional,MAE
+CF Fire Alarm,,the Fire Alarm sounded in the Critical Facility,Hardware,Emergency,Functional,MAE
+CF Power Room Fire Alarm,,the Fire Alarm sounded in the Power Room of the Critical Facility,Hardware,Emergency,Functional,MAE
+CF Power Room High Temperature S2,,the Power Room recorded a High Temperature in the Critical Facility,Hardware,Info,Functional,MAE
+CDRs Cached on The Hard Disk,,the Call Detail Records Cached on The Hard Disk,Software,Info,Functional,MAE
+Signalling path disconnected,,the Signalling path was disconnected,Software,Failure,Networking,MAE
+Number of Resources Used Exceeding Alarm Threshold Specified by License,,Many Used Resources Exceeded the Alarm Threshold Specified by License,Software,Info,Functional,MAE
+Base Station Being Attacked,,the Base Station is Being Attacked,Hardware,Emergency,Functional,MAE
+Local User Consecutive Login Retries Failed,,Consecutive Login Retries were exhausted for the Local User,Software,Info,Functional,MAE
+Licensed Feature Entering Keep-Alive Period,,the licensed Feature Entered the Keep Alive Period,Software,Info,Functional,MAE
+NE Mediation Layer Version Unmatched,,the Version was Unmatched at the Mediation Layer of the Network Element,Software,Info,Functional,MAE
+RF Unit RX Channel Fault,,the Receive Channel Failed in the Radio Frequency Unit,Software,Failure,Functional,MAE
+Users Having Not Logged In for an Excessively Long Time,,Users had Not Logged In for an Excessively Long Time,Software,Info,Functional,MAE
+GSM Cell Manually Blocked,,the Cell was Manually Blocked in the Global System for Mobile Communications,Hardware,Failure,Functional,MAE
+H.248 SCTP Path Alarm,,a Path Alarm sounded for the Gateway Control Protocol Stream Control Transmission Protocol,Software,Info,Networking,MAE
+M3UA SCTP Path Alarm,,a Path Alarm sounde at the Message Transfer User Adaptation Layer Stream Control Transmission Protocol,Software,Info,Networking,MAE
+M3UA Destination Entity Route Unavailable,,Message Transfer User Adaptation Layer Destination Entity Route was Unavailable,Software,Info,Functional,MAE
+M3UA Destination Entity Inaccessible,,Message Transfer User Adaptation Layer Destination Entity was Inaccessible,Software,Info,Functional,MAE
+SCCP Subsystem Prohibited,,Signaling Connection Control Part Subsystem was Prohibited,Security,Info,Functional,MAE
+M3UA Link Fault,,Message Transfer User Adaptation Layer Link Failed,Hardware,Failure,Networking,MAE
+Inter-System RF Unit Parameter Settings Conflict,,a Conflict was detected in the Parameter Settings in the Inter System Radio Frequency Unit,Configuration,Failure,Functional,MAE
+CF Zone 2 AC Failure M5,,the fifth Alternating Current source Failed in the second Critical Facility Zone,Power,Failure,Functional,MAE
+CF Zone 2 AC Failure M4,,the fourth Alternating Current source Failed in the second Critical Facility Zone,Power,Failure,Functional,MAE
+CF Zone 2 AC Failure M3,,the third Alternating Current source Failed in the second Critical Facility Zone,Power,Failure,Functional,MAE
+CF Zone 2 AC Failure M2,,the second Alternating Current source Failed in the second Critical Facility Zone,Power,Failure,Functional,MAE
+CF Zone 2 AC Failure M1,,the first Alternating Current source Failed in the second Critical Facility Zone,Power,Failure,Functional,MAE
+Battery Failure,,the Battery Failed,Power,Failure,Functional,MAE
+AC Surge Protector Fault,,the Surge Protector Failed in the Alternating Current source,Hardware,Info,Functional,MAE
+CF DWDM UPS Mains Failure,,the Uninterruptible Power Supply Mains Failed in the Dense Wavelength Division Multiplexing of the Critical Facility,Power,Failure,Functional,MAE
+CF Power Room 2 AC Failure M1,,the second power room Failed in the Critical Facility,Power,Failure,Functional,MAE
+Board Configuration Inconsistent with Resource Group Configuration,,the Board Configuration was Inconsistent with Resource Group Configuration,Configuration,Failure,Networking,MAE
+CF DWDM Fire Alarm,,a Fire Alarm sounded at the Dense Wavelength Division Multiplexing of the Critical Facility,Hardware,Emergency,Functional,MAE
+Service filter rule is not effective,,the Service filter rule was not effective,Software,Info,Functional,MAE
+Board Blocked,,the Board was found Blocked,Software,Failure,Functional,MAE
+Board Unavailable,,the Board was Unavailable,Hardware,Info,Functional,MAE
+M2PA association fault,,Message transfer part two peer to peer adaptation association failed,Software,Info,Functional,MAE
+M2PA SCTP fault,,Message transfer part two peer to peer adaptation Stream Control Transmission Protocol failed,Software,Failure,Networking,MAE
+Destination signaling point is inaccessible,,the Destination signaling point was inaccessible,Software,Info,Functional,MAE
+Route is unavailable,,the Route was unavailable,Software,Info,Functional,MAE
+A link set fails,,A link set failed,Hardware,Failure,Networking,MAE
+A link fails,,A link failed,Hardware,Failure,Networking,MAE
+The path status of M2PA SCTP association fault,,The path status failed of Message transfer part two peer to peer adaptation Stream Control Transmission Protocol association,Software,Info,Networking,MAE
+Second level incoming load of link occurred,,Second level incoming load of link occurred,Software,Info,Networking,MAE
+CF EL Low Battery Voltage,,the Battery Voltage was low in the Critical Facility,Power,Info,Functional,MAE
+Backup Link Is Abnormal,,the Backup Link was Abnormal,Software,Info,Networking,MAE
+The NTP time offset is out of threshold,,The Network Transfer Protocol Server time offset was out of threshold,Software,Info,Functional,MAE
+Inter-System Monitoring Device Parameter Settings Conflict,,a Conflict in the Parameter Settings of the Inter System Monitoring Device,Configuration,Failure,Functional,MAE
+M3UA SCTP path Faulty,,the Message Transfer User Adaptation Layer Stream Control Transmission Protocol path was Faulty,Software,Info,Networking,MAE
+M3UA link transmission quality Faulty,,the Message Transfer User Adaptation Layer link transmission quality was Faulty,Hardware,Info,Networking,MAE
+Board Downlink Service Processing Channel Abnormal,,Board Downlink was Abnormal for the Service Processing Channel,Hardware,Info,Functional,MAE
+Module Flow Control,,Module Flow Control issue was recorded,Software,Info,Functional,MAE
+A destination signaling point is congested,,A destination signaling point was congested,Hardware,Info,Functional,MAE
+BBU Fan Stalled,,the Baseband Unit Fan Stalled,Hardware,Emergency,Functional,MAE
+Board in Wrong Slot,,the Board found in the Wrong Slot,Hardware,Info,Functional,MAE
+RF Unit Baseband Running Error,,a Running Error detected in the Radio Frequency Unit Baseband,Software,Failure,Functional,MAE
+First level incoming load of link occurred,,First level incoming load of link occurred,Hardware,Info,Networking,MAE
+UMTS Cell Blocked,,the Universal Mobile Telecommunications System Cell was Blocked,Software,Failure,Functional,MAE
+Cell Blocked,,the Cell was Blocked,Software,Failure,Functional,MAE
+CF HU Fuse Alarm,,the Fuse Alarm sounded at the Critical Facility,Hardware,Emergency,Functional,MAE
+CF HU High Battery Voltage,,the Battery Voltage was high at the Critical Facility,Power,Info,Functional,MAE
+CDR Backup Fails,,the Call Detail Record Backup keeps Failing,Software,Failure,Functional,MAE
+P2P QoS Abnormity,,the Quality of service was Abnormal for the peer to peer connection,Software,Info,Networking,MAE
+IP Unreachable Alarm,,Internet Protocol was Unreachable,Software,Info,Networking,MAE
+Board Software Program Error,,the Program failed to run on the Board Software,Software,Failure,Functional,MAE
+CF Power Room EM High Battery Voltage,,a High Battery Voltage was recorded in the Equipment management Power Room of the Critical Facility,Power,Info,Functional,MAE
+CF Main CB Off,,the Main Configuration Baseline was turned Off in the Critical Facility,Power,Info,Functional,MAE
+Board Software Auto-Supply Failure,,the Auto Supply Failed for the Board Software,Software,Failure,Functional,MAE
+Board Not Securely Installed,,the Board was Not Securely Installed,Security,Info,Functional,MAE
+NTP service abnormal,,the Network Transfer Protocol Server service was abnormal,Software,Info,Functional,MAE
+Monitoring Device Hardware Fault,,the Hardware Failed to function in the Monitoring Device,Hardware,Failure,Functional,MAE
+M3UA link RecvBuffer congestion,,Message Transfer User Adaptation Layer link Receive Buffer was congested,Hardware,Info,Networking,MAE
+M3UA link SCTP congestion,,Message Transfer User Adaptation Layer link Stream Control Transmission Protocol was congested,Hardware,Info,Networking,MAE
+CF OP AC Failure M6,,the sixth Alternating Current Failed Critical Facility operation,Power,Failure,Functional,MAE
+CF OP AC Failure M5,,the fifth Alternating Current Failed Critical Facility operation,Power,Failure,Functional,MAE
+CF OP AC Failure M4,,the fourth Alternating Current Failed Critical Facility operation,Power,Failure,Functional,MAE
+CF OP AC Failure M3,,the third Alternating Current Failed Critical Facility operation,Power,Failure,Functional,MAE
+CF OP AC Failure M1,,the first Alternating Current Failed Critical Facility operation,Power,Failure,Functional,MAE
+ALD Hardware Fault,,the Hardware Failed to function in the Antenna Line Device,Hardware,Failure,Functional,MAE
+SCCP DPC Prohibited,,Signaling Connection Control Part Destenation point code was Prohibited,Security,Info,Functional,MAE
+M3UA Route Unavailable,,Message Transfer User Adaptation Layer Route was Unavailable,Hardware,Info,Functional,MAE
+CF HU 2 Rectifier Fault,,a Rectifier Failed in the Critical Facility,Hardware,Failure,Functional,MAE
+CF HU 2 Low Battery Voltage,,the Battery Voltage was Low in the Critical Facility,Power,Info,Functional,MAE
+CF HU 2 High Battery Voltage,,the Battery Voltage was high in the Critical Facility,Power,Info,Functional,MAE
+CF HU 2 Fuse Alarm,,the critical Facility Fuse Alarm sounded,Hardware,Emergency,Functional,MAE
+OMU Board Fault,,Optical Multiplex Unit Board Failed,Hardware,Failure,Functional,MAE
+Low SCCP Setup Success Rate,,the Setup Success Rate was Low on Signaling Connection Control Part,Software,Info,Functional,MAE
+M3UA link Receive Buffer OverFlow,,the Message Transfer User Adaptation Layer link Receive Buffer got an OverFlow,Software,Info,Networking,MAE
+CF Power Room EL 2 Rectifier Fault,,a Rectifier Failed in the Power Room of Critical Facility,Hardware,Failure,Functional,MAE
+CF Power Room EL Rectifire Fualt,,a Rectifier Failed in the second Power Room of Critical Facility,Hardware,Failure,Functional,MAE
+Board Configuration Error,,an error occurred at the Board Configuration,Configuration,Failure,Functional,MAE
+Board File System Damaged,,Board File System was found Damaged,Software,Failure,Functional,MAE
+CF EL 2 Low Battery Voltage,,the Battery Voltage was Low in the Critical Facility,Power,Info,Functional,MAE
+NSVL Faulty,,the network service virtual link was Faulty,Software,Failure,Functional,MAE
+Board Type and Configuration Mismatch,,a Mismatch detected between the Board Type and Board Configuration,Configuration,Failure,Functional,MAE
+droop_Test,,droop was being Tested,Software,Info,Functional,MAE
+Link failure of the SPF subboard,,the Link failed in the Shortest Path First subboard,Hardware,Failure,Networking,MAE
+PRA Signaling Link fail,,the primary rate access Signaling Link failed,Hardware,Failure,Networking,MAE
+Automatic Version Rollback,,Automatic Version Rollback was performed,Software,Info,Functional,MAE
+TH Archive Room Fire alarm Panel Fault,,the Archive Room Fire alarm sounded,Hardware,Emergency,Functional,MAE
+Number of Resources will Exceed License Limit,,many Resources will soon Exceed License Limit,Software,Info,Functional,MAE
+CF OP AC Failure M2,,the Alternating Current source Failed in the Critical Facility operation,Power,Failure,Functional,MAE
+CF Power Room 4 Fire Alarm Panel Fault,,a Fire Alarm sounded in the fourth panel at the Critical Facility power room,Hardware,Emergency,Functional,MAE
+CF CTS Room Fire Alarm Panel Fault,,the Fire Alarm Panel Failed in the Critical Facility Room,Hardware,Emergency,Functional,MAE
+Subrack Type and Configuration Mismatch,,a Mismatch was detected between the Subrack Type and Subrack Configuration,Configuration,Failure,Functional,MAE
+CDR Receipt Stops,,the Call Detail Record Receipt Stopped,Software,Info,Functional,MAE
+System Reserved Alarm 1,,the first System Reserved Alarm sounded,Hardware,Info,Functional,MAE
+DNS Link Down,,the Dynamic Name Space Link was Down,Software,Failure,Networking,MAE
+User Resource Overload,,the User Resource went Overloaded,Software,Info,Functional,MAE
+CF AC Failure S4,,the Alternating Current source Failed in the Critical Facility,Power,Failure,Functional,MAE
+Alarm box offline,,the Alarm box was offline,Hardware,Info,Functional,MAE
+Link Failure Between PCRF and Notification server,,the Link Failed Between Policy and Charging Rules Function and Notification server,Software,Failure,Networking,MAE
+CF Zone 2 Fire Alarm,,a Fire Alarm sounded at the second Critical Facility Zone,Hardware,Emergency,Functional,MAE
+CF Power Room 3 UPS Mains Failure,,an Uninterruptible Power Supply Mains Failed in the third Critical Facility Power Room,Power,Failure,Functional,MAE
+CF Zone 2 High Temperature S2,,a High Temperature was recorded in the second Critical Facility Zone,Hardware,Info,Functional,MAE
+Transmission Resource Pool Ping Packet Loss,,a Packet Loss happened when pinging the Transmission Resource Pool,Software,Info,Networking,MAE
+CF EL 2 Fuse Alarm,,a Fuse Alarm sounded in the Critical Facility,Hardware,Emergency,Functional,MAE
+Local Cell Capability Decline,,the Local Cell Capability Declined,Hardware,Info,Functional,MAE
+Certificate Invalid,,the Certificate was found Invalid,Software,Info,Functional,MAE
+Communication Between the OMU and the LIG/LIC Disrupted,,the Communication Between the Optical Multiplex Unit and other system was Disrupted,Software,Info,Networking,MAE
+SMS over SGs BHSA Exceeds Pre-Alarm Threshold,,the Short Message Service over SGs Busy Hour Session Attempts Exceeded the Threshold,Software,Info,Networking,MAE
+License Data Loss,,the License Data Lost,Software,Info,Functional,MAE
+Board Clock Input Unavailable,,the Board Clock Input was Unavailable,Hardware,Info,Functional,MAE
+Module Not Ready,,the Module was found Not Ready,Hardware,Info,Functional,MAE
+Plug-in Package Versions or Redundancy Switch Settings of Two Sites Are Inconsistent,,the Settings of Two Sites Are Inconsistent either at the Plug in Package Versions or at the Redundancy Switch,Configuration,Info,Networking,MAE
+Link Used by the DSG Is Inconsistent with That Configured,,the Link Used by the data service getway was Inconsistent with That Configured,Configuration,Info,Functional,MAE
+Ping,,Ping was tested,Software,Info,Networking,MAE
+Traceroute,,Traceroute was tested,Software,Info,Networking,MAE
+DSG SCTP Link Faulty,,the Link was Faulty in the data service getway Stream Control Transmission Protocol,Software,Info,Networking,MAE
+Routing Data Distribution Is Unbalanced,,Routing the Data Distribution was Unbalanced,Software,Info,Functional,MAE
+DSG Link-related Configurations Are Inconsistent,,the data service getway Link related Configurations were Inconsistent,Configuration,Info,Networking,MAE
+Communication Failure Between the OMU and Board,,the Communication Failed Between the Optical Multiplex Unit and Board,Software,Info,Networking,MAE
+Board Fault,,Board Fault was detected,Hardware,Failure,Functional,MAE
+Communication Failure Between the OMU and the Dual-Plane of a Subrack,,the Communication Failed Between the Optical Multiplex Unit and the Dual Plane of a Subrack,Software,Info,Networking,MAE
+Module Fault,,Module Fault was detected,Hardware,Failure,Functional,MAE
+Transmission Optical Module Not In Position,,Transmission Optical Module was Not In the right Position,Software,Info,Functional,MAE
+CN Node Flow Control,,a core network Node Flow Control issue was recorded,Software,Info,Functional,MAE
+Board having faulty semi-permanent connection,,the Board had faulty semi permanent connection,Hardware,Info,Functional,MAE
+Board fault,,a Board Fault was detected,Hardware,Failure,Functional,MAE
+Lost synchronization of a TDM high-speed link,,the synchronization was lost of a Time division multiplexing high speed link,Software,Failure,Networking,MAE
+DSG SCTP Link Fault,,the Link Failed in the data service getway Stream Control Transmission Protocol,Hardware,Failure,Networking,MAE
+Inter-Location DSG Module Heartbeat Timed Out,,the Inter Location data service getway Module Heartbeat was Timed Out,Software,Info,Functional,MAE
+DSG SCTP Path Failure,,the Path Failed in the data service getway Stream Control Transmission Protocol,Hardware,Failure,Networking,MAE
+One high priority BE site existed,,a single high priority backend site existed,Software,Info,Functional,MAE
+Board Port Fault,,a Board Port Fault was detected,Hardware,Failure,Functional,MAE
+Online Setting Failure,,the Online Setting Failed,Configuration,Failure,Functional,MAE
+CF EM Rectifier Fault,,a Rectifier Fault was detected at the Critical Facility Equipment Management,Hardware,Failure,Functional,MAE
+License Feature Expired,,the License Feature was Expired,Software,Info,Functional,MAE
+M3UA destination entity unreachable,,the Message Transfer User Adaptation Layer destination entity was unreachable,Hardware,Info,Functional,MAE
+M3UA route unavailable,,the Message Transfer User Adaptation Layer route was unavailable,Hardware,Info,Functional,MAE
+M3UA link set failure,,Message Transfer User Adaptation Layer link set failed,Hardware,Failure,Networking,MAE
+MTP3 link set failure,,message transfer part level? three link set failed,Hardware,Failure,Networking,MAE
+MTP3 destination signaling point unreachable,,message transfer part level? three destination signaling point was unreachable,Hardware,Info,Functional,MAE
+MME Entity is Inaccessible,,Mobility Management Entity Entity was Inaccessible,Hardware,Info,Functional,MAE
+Diameter Peer Entity Failed,,the Diameter Peer Entity Failed,Hardware,Failure,Networking,MAE
+Diameter Link Failed,,the Diameter Link Failed,Hardware,Failure,Networking,MAE
+Diameter Link Down,,the Diameter Link was shut Down,Hardware,Info,Networking,MAE
+SDH/STM-1 fault,,the first Synchronous Digital Hierarchy or Transport Modules faield,Hardware,Failure,Functional,MAE
+IP NS-VC Link Fault,,the Internet Protocol network service virtual connection Link Failed,Software,Failure,Networking,MAE
+NSE Faulty,,the network service entity was Faulty,Hardware,Info,Functional,MAE
+Event Statistic Alarm,,the Event Statistic Alarm sounded,Hardware,Info,Functional,MAE
+License File Expired,,the License File Expired,Software,Info,Functional,MAE
+Feature Expired Alarm,,the Feature Expired Alarm sounded,Software,Info,Functional,MAE
+License expire,,the License expired,Software,Info,Functional,MAE
+M3UA link congestion,,the Message Transfer User Adaptation Layer link was congested,Hardware,Info,Networking,MAE
+OceanStor Storage System Alarm,,the Ocean Storage System Alarm sounded,Software,Info,Functional,MAE
+The OMU Failed to Communicate with the NTP Server,,The Optical Multiplex Unit Failed to Communicate with the Network Transfer Protocol Server Server,Software,Info,Networking,MAE
+No response from all the NTP servers,,No response received from all the Network Transfer Protocol Server servers,Software,Info,Networking,MAE
+STC Out of Service,,the Signaling Transport Control found Out of Service,Software,Info,Functional,MAE
+Abnormal Messages Received from the SCP,,an Abnormal Messages was Received from the service control point,Software,Info,Functional,MAE
+SGS SCTP Link Fault,,the Link Failed in the Stream Control Transmission Protocol,Hardware,Failure,Networking,MAE
+SIP office heart beat is fault,,the session indication protocol office heart beat was faulty,Software,Info,Functional,MAE
+M3UA Destination IP Address Inaccessible,,the Message Transfer User Adaptation Layer Destination Internet Protocol Address was Inaccessible,Software,Info,Functional,MAE
+Diameter Destination IP Address Inaccessible,,Diameter Destination was Inaccessible for the Internet Protocol Address,Software,Info,Functional,MAE
+Number of office's fault circuits exceed threshold,,Number of office fault circuits exceeded the threshold,Hardware,Info,Functional,MAE
+No Available NS-VC in NSE,,the network service virtual connection in network serviceE was not Available,Hardware,Info,Functional,MAE
+SCCP DPC paused,,the Signaling Connection Control Part Destenation point code paused,Hardware,Info,Functional,MAE
+SCCP SSN paused,,the Signaling Connection Control Part Subsystem Number paused,Hardware,Info,Functional,MAE
+Subsystem failure,,a Subsystem failure occurred,Hardware,Failure,Functional,MAE
+A M3UA association is congested,,A Message Transfer User Adaptation Layer association was congested,Hardware,Info,Functional,MAE
+Diameter Peer Down,,the Diameter Peer was shut Down,Hardware,Info,Networking,MAE
+SGsAP Link Down,,the Signaling Gateway Application Protocol Link broke,Hardware,Failure,Networking,MAE
+Redundancy Failed,,the system Redundancy Failed,Hardware,Info,Functional,MAE
+SGsAP Peer Down,,the Signaling Gateway Application Protocol Peer broke,Software,Info,Networking,MAE
+SGsAP Destination IP Address Inaccessible,,the Signaling Gateway Application Protocol Destination Internet Protocol Address was Inaccessible,Software,Info,Functional,MAE
+DSG SCTP Link Congestion,,the data service getway Stream Control Transmission Protocol Link was Congested,Software,Info,Networking,MAE
+NTP synchronization failed,,the Network Transfer Protocol Server synchronization failed,Software,Failure,Functional,MAE
+The OMU Failed to Synchronize Time with the NTP Server,,The Optical Multiplex Unit Failed to Synchronize Time with the Network Transfer Protocol Server Server,Software,Failure,Networking,MAE
+Time Offset with NTP Server Beyond Synchronize Threshold,,the Time Offset with Network Transfer Protocol Server Server was Beyond Synchronize Threshold,Software,Info,Functional,MAE
+Board Powered Off,,the Board was Powered Off,Hardware,Info,Functional,MAE
+Board Temperature Unacceptable,,the Board Temperature was Unacceptable,Hardware,Info,Functional,MAE
+CF Power Room AC Split Failure,,a Split Failed at the Alternating Current source in the Critical Facility Power Room,Power,Failure,Functional,MAE
+Ambient Temperature Unacceptable,,the Ambient Temperature was Unacceptable,Hardware,Info,Functional,MAE
+License has been used up,,the License has been used up,Software,Info,Functional,MAE
+Reference source status of CKII board is lost,,the Reference source status of the board was lost,Hardware,Info,Functional,MAE
+The phase locked status of CKII board is changed,,The phase locked status of the board was changed,Hardware,Info,Functional,MAE
+CF Power Room 2 High Temperature,,a High Temperature was recorded in the second Power Room of the Critical Facility,Hardware,Info,Functional,MAE
+RF Unit Optical Module Type Mismatch,,a Type Mismatch occurred in the Radio Frequency Unit Optical Module,Hardware,Info,Functional,MAE
+CF Generator6 Failure,,the sixth Diesel Generator failed in the Critical Facility,Power,Failure,Functional,MAE
+CF Generator5 Failure,,the fifth Diesel Generator failed in the Critical Facility,Power,Failure,Functional,MAE
+CF Generator3 Failure,,the third Diesel Generator failed in the Critical Facility,Power,Failure,Functional,MAE
+CF Generator6 On,,the sixth Diesel Generator was started in the Critical Facility,Power,Info,Functional,MAE
+Diameter Route Invalid,,the Diameter Route was found Invalid,Hardware,Info,Functional,MAE
+NE License Feature On Trial,,the Network Element License Feature is being used On Trial,Software,Info,Functional,MAE
+CF EL Battery Disconnection,,the Critical Facility Battery was Disconnected,Hardware,Info,Functional,MAE
+CF EL High Battery Voltage,,the Critical Facility recorded a High Battery Voltage,Hardware,Info,Functional,MAE
+System Clock Unlocked,,the System Clock was Unlocked,Software,Info,Functional,MAE
+Invalid Packets Exceeding Alarm,,Invalid Packets Exceeded the threshold,Software,Info,Networking,MAE
+IP Attack,,an Internet Protocol Attack was detected,Software,Emergency,Networking,MAE
+Base Station Service Unavailable,,the Base Station Service was Unavailable,Software,Info,Functional,MAE
+Gateway Detect Failure,,the Gateway Detection Failed,Software,Info,Networking,MAE
+Communication Failure Between NE and EMS,,the Communication Failed Between Network Element and element management system,Software,Info,Networking,MAE
+Device Traffic Decrease,,the Device Traffic Decreased,Software,Info,Networking,MAE
+No response from the OCS,,No response receicved from the online charging system,Software,Info,Functional,MAE
+Usage of internal resources exceeds the threshold,,the Usage of internal resources exceeded the threshold,Hardware,Info,Functional,MAE
+CF SyriatelBld High Temperature S2,,a HIGH temperature was recorded in the company building,Hardware,Info,Functional,MAE
+Data Synchronization Failure Between the Active and Standby OMU Databases,,the Data Synchronization Failed Between the Active and Standby Optical Multiplex Unit Databases,Software,Failure,Networking,MAE
+RRU Network Topology Type and Configuration Mismatch,,a Mismatch was found between Remote Radio Unit Network Topology Type and Configuration,Configuration,Failure,Networking,MAE
+RRU Cascading Levels and Configuration Mismatch,,a Mismatch was found Remote Radio Unit Cascading Levels and Configuration,Configuration,Failure,Networking,MAE
+UMTS Cell Reconfiguration Failed,,the Reconfiguration Failed at the Universal Mobile Telecommunications System Cell,Configuration,Failure,Functional,MAE
+File Synchronization Failure in the OMU HA System,,the File Synchronization Failed in the Optical Multiplex Unit System,Software,Failure,Functional,MAE
+Cell RX Channel Interference Noise Power Unbalanced,,the Noise Power Unbalanced in the Cell Receive Channel Interference,Hardware,Info,Functional,MAE
+CF Power Room 2 AC Failure M2,,a Alternating Current source Failed in the Critical Facility second Power Room,Power,Failure,Functional,MAE
+The usage of local address pool exceeds alarm threshold,,The usage of local address pool exceeded alarm threshold,Software,Info,Functional,MAE
+Temperature alarm on a board hardware module,,a Temperature alarm sounded on some board hardware module,Hardware,Info,Functional,MAE
+Interface congestion,,an Interface congestion was recorded,Hardware,Info,Functional,MAE
+PDB Power Supply Fault,,the Power?›? Distribution Box Power Supply Failed,Hardware,Failure,Functional,MAE
+Excessive License Usage,,an Excessive License Usage was detected,Software,Info,Functional,MAE
+RF Out of Service,,the Radio Frequency was Out of Service,Hardware,Failure,Functional,MAE
+CF Power Room 2 High Temperature S2,,a High Temperature was recorded in the Critical Facility second Power Room,Hardware,Info,Functional,MAE
+First level outgoing load of link occurred,,First level outgoing load of link occurred,Hardware,Info,Networking,MAE
+FPGA Lock Failure,,a Lock Failed in the Field Programmable gate array,Software,Failure,Functional,MAE
+PGW Link Set Fault,,the Packet Data Network Gateway Link Set Failed,Hardware,Failure,Networking,MAE
+M3UA Signaling Link Congestion,,Message Transfer User Adaptation Layer Signaling Link was Congested,Hardware,Info,Networking,MAE
+Result of the auto TRACERT when MGC is disconnected,,Result of the auto Trace the specified host when media gateway control protocol was disconnected,Hardware,Info,Functional,MAE
+Result of the auto PING when MGC is disconnected,,the Result of the auto PING when media gateway control protocol was disconnected,Software,Info,Functional,MAE
+Disconnection to the MGC,,the connection lost to the media gateway control protocol,Software,Info,Functional,MAE
+Fault in the FE cascading network interface,,the cascading network interface was faulty,Hardware,Info,Networking,MAE
+E1/T1 channel fault,,a Link channel failed,Hardware,Failure,Networking,MAE
+BBU CPRI Line Rate Negotiation Abnormal,,the Line Rate Negotiation was Abnormal in the Common Public Radio Interface of the Baseband Unit,Software,Info,Networking,MAE
+CF OP High Temperature Zone B,,a High Temperature was recorded in the Critical Facility operation second Zone,Hardware,Info,Functional,MAE
+CF Power Room3 High Temperature 2,,a High Temperature was recorded in the third Power Room Critical Facility,Hardware,Info,Functional,MAE
+C/D interface Congestion,,an interface was Congested,Hardware,Info,Functional,MAE
+Second level outgoing load of link occurred,,Second level outgoing load of link occurred,Hardware,Info,Networking,MAE
+CF Zone 2 AC Failure S1,,the Alternating Current souce Failed at the second Critical Facility Zone,Power,Failure,Functional,MAE
+CF Zone 2 AC Failure S2,,the Alternating Current souce Failed at the second second Critical Facility Zone,Power,Failure,Functional,MAE
+CF AC Failure M7,,a Critical Facility Alternating Current source Failed,Power,Failure,Functional,MAE
+Traffic Exceed Pre-Alarm Threshold,,the Traffic Exceeded the Threshold,Software,Info,Networking,MAE
+Board Uplink Service Processing Channel Abnormal,,the Board Uplink Service Processing Channel was Abnormal,Hardware,Info,Functional,MAE
+Traffic Unbalance,,the Traffic was Unbalanced,Software,Info,Networking,MAE
+Detecting the Standby Forwarding Path Failed,,the Standby Forwarding Path Detecting Failed,Hardware,Failure,Functional,MAE
+License Traffic Climax Alarm,,the License Traffic Trademark Alarm sounded,Software,Info,Networking,MAE
+Transmission Optical Module Fault,,the Transmission Optical Module Failed,Hardware,Failure,Functional,MAE
+CPU overload,,the Central Processing Unit suffered an overload,Software,Info,Functional,MAE
+M3UA link overload,,the Message Transfer User Adaptation Layer link was overloaded,Hardware,Info,Networking,MAE
+MGW Out of Service,,the media gateways was Out of Service,Hardware,Failure,Functional,MAE
+Redundancy USCDB in the Takeover State,,the Redundancy Unified Subscriber Center Database was in the Takeover State,Software,Info,Functional,MAE
+Gr Interface Traffic Overload,,a Traffic Overload happened in the Interface between the Serving General Packet Radio Service Support Node and another node,Software,Info,Networking,MAE
+Batched S1ap Link Faults,,the Batched Link Failed many times in the application protocol of interface between the Long Term Evaluation Radio Access Network and evolved packet core,Hardware,Info,Networking,MAE
+GTPU Path No Active Route Alarm,,the General Packet Radio Service Tunneling Protocol in User Plane Path had No Active Route,Software,Info,Networking,MAE
+System Flowctrl Startup,,the System Flow control was Started up,Hardware,Info,Functional,MAE
+User Resource Congest,,the User Resource was Congested,Hardware,Info,Functional,MAE
+Process CPU Overload,,the Process Central Processing Unit suffered an Overload,Software,Info,Functional,MAE
+Loss of the reference source,,the reference source was lost,Software,Failure,Functional,MAE
